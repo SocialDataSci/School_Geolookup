@@ -2,15 +2,33 @@ import googlemaps
 import csv
 import pandas as pd
 
-def geo_lookup(location_df):
+
+def geo_lookup(input_names):
     # read in API key
     with open("api_key.txt", "r") as file:
         api_key = file.read()
+    # start gmaps api
     gmaps = googlemaps.Client(key=api_key)
-    # TODO rate handling
-    # TODO iterate through df
-    # TODO recreate df
-    geocode_result = gmaps.geocode('General Mills Headquarters, MN')
+    # load cached data
+    cached_df = pd.read_csv('cached.tsv', sep='\t')
+    cached = cached_df['school_name'].tolist()
+    # compare input names to cached
+    remaining = list(set(input_names) - set(cached))
+    # iterate over list of remaing locations and get geolocation
+    for location in remaining:
+        print(location)
+        # TODO rate handling
+        lookup_loc = location + ' MN'
+        gmaps_json = gmaps.places(lookup_loc, location='Minnesota', radius=1000, types='school')
+        print(gmaps_json)
+
+    # TODO append to cached df
+    # save cached df
+    return cached_df
+
+
+def geo_parser(gmaps_json):
+    do_stuff = 0
 
 
 def read_raw_data(file_opts):
@@ -50,15 +68,13 @@ if __name__ == "__main__":
             column_name = file_opts[2]
             school_names = file_df[column_name].str.lower()
             unique_names = pd.unique(school_names).tolist()
+            # remove extra whitespace and remove all districts
             for name in unique_names:
-                input_names.append(name.strip())
+                if 'district' not in name:
+                    input_names.append(name.strip())
         unique_input_names = set(input_names)
-        print(unique_input_names)
+        myval = geo_lookup(unique_input_names)
 
 
-
-
-
-# perform lookup, only those not cached, rate limit
 # perform join
 # write out copy of data with geolocation
