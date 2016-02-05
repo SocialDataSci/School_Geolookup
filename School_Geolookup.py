@@ -2,7 +2,7 @@ import googlemaps
 import csv
 import pandas as pd
 import usaddress
-
+from time import sleep
 
 def geo_lookup(input_names):
     # read in API key
@@ -12,15 +12,23 @@ def geo_lookup(input_names):
     gmaps = googlemaps.Client(key=api_key)
     # load cached data
     cached_df = pd.read_csv('cached.txt', sep='\t')
-    cached = cached_df['Name'].tolist()
+    cached = cached_df['Name'].str.lower().tolist()
     # compare input names to cached
     remaining = list(set(input_names) - set(cached))
     # iterate over list of remaing locations and get geolocation
     for location in remaining:
         # TODO rate handling
-        lookup_loc = location + ' MN'
-        gmaps_json = gmaps.places(lookup_loc, location='Minnesota', radius=1000, types='school')
-        df = geo_parser(gmaps_json)
+        lookup_loc = location
+        try:
+            gmaps_json = gmaps.places(lookup_loc, location='Minnesota', radius=1000, types='school')
+        except googlemaps.exceptions.Timeout:
+            sleep(5)
+            try:
+                gmaps_json = gmaps.places(lookup_loc, location='Minnesota', radius=1000, types='school')
+            # hit daily rate limit, break and write out to cache
+            except googlemaps.exceptions.Timeout:
+                break
+        df = geo_parser(location, gmaps_json)
         cached_df = cached_df.append(df)
 
     # overwrite
@@ -28,30 +36,40 @@ def geo_lookup(input_names):
     return cached_df
 
 
-def geo_parser(gmaps_json):
+def geo_parser(location, gmaps_json):
     # parse json response
-    results = gmaps_json["results"][0]
-    std_name = results['name']
-    print(std_name)
-    lat = results['geometry']['location']['lat']
-    lng = results['geometry']['location']['lng']
-    std_address = results['formatted_address']
-    # parse address
     try:
-        parsed_address = usaddress.tag(std_address)
-        city = parsed_address[0]['PlaceName']
-    except:
-        parsed_address = usaddress.parse(std_address)
-        # traverse parsed address list if the tagger fails
-        city = ''
-        for addr_tup in parsed_address:
-            print(addr_tup)
-            if addr_tup[1] == 'PlaceName':
-                city += ' ' + addr_tup[0]
-            city = city.strip()
-    print(city)
-    df = pd.DataFrame([[std_name, lat, lng, city]], columns=['Name', 'Latitude', 'Longitude', 'City'])
-    return df
+        results = gmaps_json["results"][0]
+        std_name = results['name']
+        print(std_name)
+        lat = results['geometry']['location']['lat']
+        lng = results['geometry']['location']['lng']
+        std_address = results['formatted_address']
+        # parse address
+        try:
+            parsed_address = usaddress.tag(std_address)
+            city = parsed_address[0]['PlaceName']
+            state = parsed_address[0]['StateName']
+        except:
+            parsed_address = usaddress.parse(std_address)
+            # traverse parsed address list if the tagger fails
+            city = ''
+            state = ''
+            for addr_tup in parsed_address:
+                print(addr_tup)
+                if addr_tup[1] == 'PlaceName':
+                    city += ' ' + addr_tup[0]
+                if addr_tup[1] == 'StateName':
+                    state += ' ' + addr_tup[0]
+                city = city.strip()
+        print(city)
+        df = pd.DataFrame([[location, std_name, lat, lng, city, state]], columns=['Raw_Name', 'Name', 'Latitude', 'Longitude', 'City', 'State'])
+        return df
+
+    except IndexError:
+        print(gmaps_json)
+        df = pd.DataFrame()
+        return
 
 
 
