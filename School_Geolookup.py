@@ -32,12 +32,24 @@ def geo_parser(gmaps_json):
     # parse json response
     results = gmaps_json["results"][0]
     std_name = results['name']
+    print(std_name)
     lat = results['geometry']['location']['lat']
     lng = results['geometry']['location']['lng']
     std_address = results['formatted_address']
     # parse address
-    parsed_address = usaddress.tag(std_address)
-    city = parsed_address[0]['PlaceName']
+    try:
+        parsed_address = usaddress.tag(std_address)
+        city = parsed_address[0]['PlaceName']
+    except:
+        parsed_address = usaddress.parse(std_address)
+        # traverse parsed address list if the tagger fails
+        city = ''
+        for addr_tup in parsed_address:
+            print(addr_tup)
+            if addr_tup[1] == 'PlaceName':
+                city += ' ' + addr_tup[0]
+            city = city.strip()
+    print(city)
     df = pd.DataFrame([[std_name, lat, lng, city]], columns=['Name', 'Latitude', 'Longitude', 'City'])
     return df
 
