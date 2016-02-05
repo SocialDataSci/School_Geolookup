@@ -1,6 +1,7 @@
 import googlemaps
 import csv
 import pandas as pd
+import usaddress
 
 
 def geo_lookup(input_names):
@@ -10,25 +11,36 @@ def geo_lookup(input_names):
     # start gmaps api
     gmaps = googlemaps.Client(key=api_key)
     # load cached data
-    cached_df = pd.read_csv('cached.tsv', sep='\t')
-    cached = cached_df['school_name'].tolist()
+    cached_df = pd.read_csv('cached.txt', sep='\t')
+    cached = cached_df['Name'].tolist()
     # compare input names to cached
     remaining = list(set(input_names) - set(cached))
     # iterate over list of remaing locations and get geolocation
     for location in remaining:
-        print(location)
         # TODO rate handling
         lookup_loc = location + ' MN'
         gmaps_json = gmaps.places(lookup_loc, location='Minnesota', radius=1000, types='school')
-        print(gmaps_json)
+        df = geo_parser(gmaps_json)
+        cached_df = cached_df.append(df)
 
-    # TODO append to cached df
-    # save cached df
+    # overwrite
+    cached_df.to_csv('cached.txt', sep='\t', index=False, mode='w')
     return cached_df
 
 
 def geo_parser(gmaps_json):
-    do_stuff = 0
+    # parse json response
+    results = gmaps_json["results"][0]
+    std_name = results['name']
+    lat = results['geometry']['location']['lat']
+    lng = results['geometry']['location']['lng']
+    std_address = results['formatted_address']
+    # parse address
+    parsed_address = usaddress.tag(std_address)
+    city = parsed_address[0]['PlaceName']
+    df = pd.DataFrame([[std_name, lat, lng, city]], columns=['Name', 'Latitude', 'Longitude', 'City'])
+    return df
+
 
 
 def read_raw_data(file_opts):
