@@ -1,0 +1,1010 @@
+Raw_Name	Name	Latitude	Longitude	City	State
+test	test	23.0	343.0	Eau Claire	WI
+little canada elementary	Little Canada Elementary School	45.0247445	-93.0830579	Little Canada	MN
+attain	Attain	38.9264049	-77.2252982	McLean	VA
+west st. paul-mendota hts.-eagan	Independent School District No 197	44.8873097	-93.1080258	Mendota Heights	MN
+lakeville area learning center	Lakeville Area Learning Center	44.6463571	-93.24384119999999	Lakeville	MN
+sonnesyn elementary	Sonnesyn Elementary School	45.0186685	-93.391055	New Hope	MN
+oak hills elementary	Oak Hills Elementary School	44.70946	-93.2406986	Lakeville	MN
+swmetro alc	SouthWest Metro Educational Cooperative	44.7843349	-93.5539376	Shakopee	MN
+watertown-mayer middle	Watertown - Mayer Primary School	44.9676625	-93.8491875	Watertown	MN
+st. james northside elementary	Northside Elementary School	43.990668	-94.621522	St James	MN
+appleton elementary	Appleton Elementary School	39.1215711	-108.6154283	Grand Junction	CO
+voyageurs expeditionary	Voyageurs Expeditionary High	47.5057543	-94.874945	Bemidji	MN
+mastery school	Mastery Charter School-Pickett Campus	40.0319786	-75.18025329999999	Philadelphia	PA
+vector low incidence north	Vector Transition Program	45.083106	-93.39375100000001	Minneapolis	MN
+parkview elementary	Parkview Elementary School	44.7130207	-93.20299709999999	Rosemount	MN
+lincoln senior high	Abraham Lincoln High School	34.0747088	-118.2036834	Los Angeles	CA
+superior academy	Southeast Jeet Kune Do	33.519062	-82.11466399999999	Evans	GA
+southwestern youth services	Southwestern Youth Services	34.637531	-99.335528	Altus	OK
+madison-marietta-nassau elementary	Madison Elementary School	45.01277779999999	-96.1894444	West, Madison	MN
+stonebridge world school	Stonebridge Community School	44.9205188	-93.28875269999999	Minneapolis	MN
+scenic heights elementary	Scenic Heights School	44.9011696	-93.49419630000001	Minnetonka	MN
+sun - richfield	Sun Current Newspapers	44.8656898	-93.4154413	Eden Prairie	MN
+new york mills public school dist.	New York Mills Elementary School	46.5221726	-95.37844830000002	New York Mills	MN
+sauk centre secondary	Sauk Centre Public Schools	45.729167	-94.94277799999999	Sauk Centre	MN
+mora alternative learning center	Mora Alternative Education	45.8786609	-93.2924675	Mora	MN
+bluff view elementary	Bluff View Elementary School	44.436887	-92.275041	Lake City	MN
+jonathan elementary	Jonathan Elementary School	36.8454966	-88.2180552	Benton	KY
+hastings high school	Hastings High School	44.74430929999999	-92.89076949999999	Hastings	MN
+ramsey middle school	Ramsey Middle School	38.14922539999999	-85.5461969	Louisville	KY
+scandia elementary	Scandia Elementary School	38.2755937	-121.9451628	Fairfield	CA
+west side summit charter school	West Side Summit Charter School	44.93117240000001	-93.08626679999999	St Paul	MN
+foley intermediate elementary	Foley Intermediate School	30.38612729999999	-87.6921436	Foley	AL
+belgrade-brooten-elrosa elementary	Belgrade-Brooten-Elrosa Elementary School	45.5017427	-95.1293251	Brooten	MN
+praxis program	Washington University in St. Louis	38.6487895	-90.31079620000001	St. Louis	MO
+shirley hills primary school	Shirley Hills Primary School	44.9331509	-93.65628319999999	Mound	MN
+blue earth area middle	Blue Earth Junior High School	43.6391216	-94.0985709	Blue Earth	MN
+miltona elementary	Miltona Elementary School	46.0433333	-95.28833329999999	Miltona	MN
+howard lake-waverly-winsted	Howard Lake Waverly High School	45.02830669999999	-94.06644560000001	Howard Lake	MN
+marshall county central schools	Newfolden Elementary School	48.3566475	-96.33248139999999	Newfolden	MN
+minnesota transitions middle	Minnesota Transitions Charter Schools	44.9502773	-93.2375465	Minneapolis	MN
+southwest senior high	Southwest Miami Senior High School	25.7226201	-80.3389996	Miami	FL
+four directions charter schools	Four Directions Charter School	44.998985	-93.2948088	Minneapolis	MN
+valentine hills elementary	Valentine Hills Elementary School	45.0564184	-93.1761633	St Paul	MN
+great expectations	Great Expectations Foundation	35.92137449999999	-94.96688019999999	Tahlequah	OK
+barton open elementary	Clara Barton Open School	44.9254829	-93.2914011	Minneapolis	MN
+twin cities german immersion chrtr	Twin Cities German Immersion School	44.97580800000001	-93.14406699999999	St Paul	MN
+prairie care hospital day program	PrairieCare Medical Group	44.93933930000001	-92.95306509999999	Woodbury	MN
+special ed-non public	Maryland Association-Nonpublic	39.39961849999999	-76.6054535	Towson	MD
+janesville-waldorf-pemberton sec	Janesville Waldorf Pemberton	44.1190125	-93.70676429999999	Janesville	MN
+bayview elementary	Bayview Elementary School	26.1411965	-80.1172665	Fort Lauderdale	FL
+cornerstone montessori elementary	Cornerstone Montessori School	44.9750006	-93.0324186	St Paul	MN
+viking elementary school	Viking Elementary School	43.96173259999999	-91.2500359	Holmen	WI
+rahn elementary	Rahn Elementary School	44.7963522	-93.21014009999999	Eagan	MN
+maple lake elementary	Maple Lake Elementary School	45.2332842	-93.9989154	Maple Lake	MN
+northfield area learning center	Longfellow School	44.457953	-93.169212	Northfield	MN
+sherburn elementary	Sherburn Elementary School	43.6582889	-94.72636899999999	Sherburn	MN
+isanti middle school	Isanti Middle School	45.4911225	-93.26300909999999	Isanti	MN
+pinewood elementary	Pinewood Community School	44.8001089	-93.11590869999999	Eagan	MN
+lakeaires elementary	Lakeaires Elementary School	45.0618839	-93.0120082	White Bear Lake	MN
+daytons bluff elementary	Daytons Bluff Elementary School	44.95461280000001	-93.0666468	St Paul	MN
+washburn elementary	Washburn Elementary School	44.8509204	-93.3176687	Minneapolis	MN
+morris area public schools	Morris Area Elementary School	45.5838025	-95.9007669	Morris	MN
+dover-eyota elementary	Dover-Eyota High School	43.9831028	-92.2318779	Eyota	MN
+myers-wilkins elementary	Myers-Wilkins Elementary School	46.8015225	-92.1003351	Duluth	MN
+secondary area learning cntr summer	Faribault Area Learning Center	44.3206397	-93.2700258	Faribault	MN
+le sueur-henderson high school	Le Sueur Henderson High School	44.4577237	-93.90225679999999	Le Sueur	MN
+calc transition	Calc Transition Special Education	45.139273	-93.161806	Circle Pines	MN
+la crescent sec montessori/stem	La Crescent Montessori Academy	43.8178398	-91.30632349999999	La Crescent	MN
+marshall middle school	Thurgood Marshall Middle School	32.89615089999999	-117.0992445	San Diego	CA
+rails academy	Lincoln RAILS Academy	41.5331333	-93.6282442	Des Moines	IA
+galtier elementary school	Galtier Magnet Elementary School	44.9579357	-93.1560604	St Paul	MN
+oak grove elementary	Oak Grove Elementary School (Dekalb County)	33.8365025	-84.2886261	Atlanta	GA
+central family center	Central Family Center Special Education	44.7941311	-93.52465269999999	Shakopee	MN
+milroy elementary	Milroy Elementary School	39.4990074	-85.46361209999999	Milroy	IN
+cannon falls sec.	Cannon Falls High School	44.5120538	-92.8898442	Cannon Falls	MN
+walnut grove elementary	Walnut Grove Elementary School	37.673219	-121.885377	Pleasanton	CA
+sail program	Maricopa County Sail Program	33.4508521	-112.0740075	Phoenix	AZ
+fergus falls elementary sp ed 5-8	Fergus Falls Area Special Edu	46.2891173	-96.06799269999999	Fergus Falls	MN
+ivan sand community school- is	Ivan Sand After School Credit Recov	45.31212540000001	-93.57930569999999	Elk River	MN
+osseo secondary transition center	Osseo Secondary Transition Center	45.0829096	-93.39832129999999	Minneapolis	MN
+swmetro river valley ed center	River Valley Education Center	44.65881339999999	-93.6369833	Jordan	MN
+schumann elementary	Schumann Elementary School	44.99253600000001	-93.5982209	Long Lake	MN
+bay view elementary	Bay View Elementary	36.935425	-76.236328	Norfolk	VA
+ponemah elementary	Ponemah Elementary School	48.0180555	-94.9116667	Ponemah	MN
+west concord public charter school	West Concord City Hall	44.1517361	-92.8991279	West Concord	MN
+edgewood elementary	Edgewood Elementary School	33.4713788	-86.8097246	Birmingham	AL
+falcon ridge middle	Falcon Ridge Middle School	44.761781	-93.18493	Apple Valley	MN
+rice elementary	Rice Elementary School	40.6874692	-105.0032676	Wellington	CO
+venture academy	Venture Academy	41.2691117	-112.0172227	Marriott-Slaterville	UT
+trailview elementary	Trailview Elementary School	45.8875293	-93.29474979999999	Mora	MN
+st. charles secondary	St Charles High School	43.9714053	-92.0542577	St Charles	MN
+red rock ridge learning center	Red Rock Ridge Area Learning Center	43.86648100000001	-95.1085667	Windom	MN
+underwood secondary	Underwood Elementary School	46.2818652	-95.87178999999999	Underwood	MN
+new london alternative school	New Model School Company	51.5254728	-0.2112725	United Kingdom	
+farmington elementary	Farmington Elementary School	35.0923019	-89.778318	Germantown	TN
+isle area learning center	ALC	46.1372521	-93.4749717	Isle	MN
+brandon-evansville middle school	Brandon School	45.96722219999999	-95.5997222	Brandon	MN
+lincoln k-8 choice elementary	Lincoln K-8 Choice Elementary School	44.0083812	-92.45162119999999	Rochester	MN
+central elementary	Central Elementary	38.7437341	-90.61153499999999	St Charles	MO
+zumbrota-mazeppa middle school	Zumbrota Mazeppa High School	44.290749	-92.67357059999999	Zumbrota	MN
+dakota prairie area learning center	Dakota Prairie Area Learning Center	44.634719	-93.155715	Farmington	MN
+phoenix learning center	Phoenix Community Learning Center	39.1483251	-84.495638	Cincinnati	OH
+ecse	Department of Electrical, Computer, and Systems Engineering	42.7295478	-73.6803261	Troy	NY
+victoria elementary	Victoria Elementary School	44.83644109999999	-93.65842579999999	Victoria	MN
+northpoint elementary	Northpoint Elementary School	40.511379	-88.9347643	Bloomington	IL
+north lakes academy 56	North Lakes Academy	45.2755142	-93.0039362	Forest Lake	MN
+caledonia senior high	Caledonia Elementary School	43.6338482	-91.50266830000001	Caledonia	MN
+prairie lakes school	Prairie Lakes School	45.142202	-95.0078265	Willmar	MN
+chatfield public schools	Chatfield Public Schools Superintendent	43.85376689999999	-92.19163309999999	Chatfield	MN
+lincoln elementary	Abraham Lincoln Elementary School	33.6100221	-117.8606119	Corona Del Mar	CA
+sun transition south	Intermediate District 287	44.9996874	-93.45050529999999	Plymouth	MN
+mountain lake public schools	Mountain Lake Elementary School	43.9419055	-94.9261477	Mountain Lake	MN
+sand creek elementary	Sand Creek Elementary School	39.9802206	-85.96347039999999	Fishers	IN
+st. anthony middle	St. Anthony Middle School	45.0284842	-93.2142611	Minneapolis	MN
+john glenn middle	John Glen Middle School	33.72081120000001	-116.2748643	Indio	CA
+622 alternative middle/high school	622 Alternative Middle/High School	45.0214159	-93.0175531	Maplewood	MN
+united south central elementary	United South Central High School	43.7340249	-93.73514759999999	Wells	MN
+pathways program at red wing high s	Red Wing Independent District Office	44.5360528	-92.5149067	Red Wing	MN
+austin area learning center	Austin Area Learning Center	43.6683081	-92.9780107	Austin	MN
+nashwauk secondary	Nashwauk Secondary School	47.3765334	-93.1670201	Nashwauk	MN
+iq academy minnesota	I Q Academy Minnesota	46.2891173	-96.06799269999999	Fergus Falls	MN
+deephaven education center	Deephaven Education Center	44.9214475	-93.524039	Excelsior	MN
+rogers elementary	Rogers Elementary School	45.1822548	-93.5538041	Rogers	MN
+st. anthony-new brighton schools	St. Anthony New Brighton School District	45.0285851	-93.21429599999999	St Anthony	MN
+red oak elementary	Red Oak Elementary School	33.523395	-84.2643259	Stockbridge	GA
+keewatin elementary	Keewatin Elementary School	47.4000837	-93.0800603	Keewatin	MN
+alc armstrong hs - is	Robbinsdale Armstrong High School	45.02008	-93.4171235	Plymouth	MN
+dassel-cokato alternative ctr.	Dassel-Cokato Alternative Center	45.07952699999999	-94.186851	Cokato	MN
+northland secondary	Northland Secondary School	1.4358518	103.8402646		
+southland elementary	Southland Elementary	40.520937	-111.956691	Riverton	UT
+mabel-canton secondary	Mabel Canton Elementary School	43.5198063	-91.77325300000001	Mabel	MN
+west central juvenile center	West Central Regional Juvenile Center	46.8834921	-96.7645338	Moorhead	MN
+voa phoenix - salt hs	VOA High School	44.9630071	-93.2459686	Minneapolis	MN
+ogat	Ögat	60.112627	24.7089819	Finland	
+bluff creek elementary	Bluff Creek Elementary School	44.86082009999999	-93.5784276	Chanhassen	MN
+magelssen elementary	Magelssen Elementary School	47.5736111	-95.74249999999999	Fosston	MN
+northeast college prep charter scho	Northeast College Prep	45.013571	-93.243326	Minneapolis	MN
+pine river-backus area learning ctr	Pine River Pequot Middle - Area Learning Center	46.7186514	-94.3928733	Pine River	MN
+floodwood secondary	Floodwood Elementary School	46.930352	-92.91575569999999	Floodwood	MN
+st. francis alc is	Oak Land Area Learning Center St. Francis	45.3867795	-93.35998169999999	St Francis	MN
+st. peter senior high	St. Peter Senior High School	44.3286312	-93.9665766	St Peter	MN
+isd 728 focus/journey	VandenBerge Middle School	45.312737	-93.57587799999999	Elk River	MN
+rlcc elementary at oklee	Red Lake County Central ISD 2906	47.8396856	-95.85659439999999	Oklee	MN
+winona area learning center	Winona Area Learning Center	44.0555435	-91.6721725	Winona	MN
+oxbow creek elementary	Oxbow Creek Elementary School	45.1511441	-93.3648205	Champlin	MN
+ogilvie elementary	Ogilvie Elementary School	45.82634609999999	-93.4311867	Ogilvie	MN
+centennial high school	Centennial High School	34.00704	-84.2905485	Roswell	GA
+brookside early childhood sp. edu.	Pure Pharmacy 008 - Latoria	48.409184	-123.509116	Victoria, Canada	 BC
+glacier hills elementary	Glacier Hills Elementary	44.818236	-93.155486	St Paul	MN
+mn center for online learning	MPS Online Learning	44.9418227	-93.2620302	Minneapolis	MN
+the anicca program	Eastern Carver County School District 112	44.8415729	-93.597031	Chaska	MN
+minnesota internship center	Minnesota Internship Center	45.0051026	-93.2961162	Minneapolis	MN
+lancaster elementary	Lancaster Elementary	30.43202879999999	-90.19924280000001	Madisonville	LA
+kennedy senior high	Kennedy High School	44.8279271	-93.27688150000002	Bloomington	MN
+cloquet senior	Cloquet Senior High School	46.7097359	-92.44256969999999	Cloquet	MN
+winnebago elementary	Winnebago Elementary School	41.94149900000001	-88.0703561	Bloomingdale	IL
+special education	Department of Special Education	40.10218099999999	-88.2296389	Champaign	IL
+nevis elementary	Nevis Elementary School	46.966106	-94.8441212	Nevis	MN
+williams elementary	Williams Elementary	37.20779829999999	-121.8515333	San Jose,	
+princeton middle level alc	Princeton Middle School	45.583317	-93.57511199999999	Princeton	MN
+red lake juvenile detention faclty	Minnesota Correctional Facility - Red Wing	44.558898	-92.49566139999999	Red Wing	MN
+park center ib world school	Park Center Senior High School	45.0889301	-93.34375879999999	Brooklyn Park	MN
+friendly hills middle	Friendly Hills Middle School	44.8675039	-93.11945709999999	Mendota Heights	MN
+city inc. south	City Inc	44.9427387	-93.2616705	Minneapolis	MN
+epsilon	Epsilon	32.8952346	-96.9683069	Irving	TX
+south st. paul public school dist.	South St Paul High School	44.89216889999999	-93.0426782	St Paul	MN
+gideon pond elementary	Gideon Pond Elementary School	44.7673209	-93.2669382	Burnsville	MN
+knights academy	Knights Academy	45.21123299999999	-93.666461	St Michael	MN
+east view academy	East View Academy	45.0127277	-93.10402859999999	Little Canada	MN
+minnesota new country school	Minnesota New Country School	44.5290245	-93.90350989999999	Henderson	MN
+woodbury elementary	Woodbury Elementary School	33.6962403	-117.7496768	Irvine	CA
+butterfield elementary	Butterfield Elementary School	32.34597239999999	-111.0390519	Tucson	AZ
+warroad high school	Warroad High School	48.9111931	-95.3296422	Warroad	MN
+swmetro seat based	L'Enfant Plaza Metro 7th & Maryland Entrance	38.8860331	-77.0214357	Washington	DC
+chaska high school	Chaska High School	44.824384	-93.58930339999999	Chaska	MN
+chester creek academy	Chester Creek Academy	46.81487449999999	-92.09338869999999	Duluth	MN
+mesabi east secondary	Mesabi East Elementary School	47.5316038	-92.2411911	Aurora	MN
+cotton secondary	Cotton Secondary School	47.1745145	-92.4793512	Cotton	MN
+oak-land junior high	Oak Land Junior High School	44.96082499999999	-92.86452299999999	Lake Elmo	MN
+lynd middle school targeted service	Lynd Elementary School	44.3861111	-95.8936111	Lynd	MN
+technical senior high	Technical High School	45.55421389999999	-94.1655724	St Cloud	MN
+minnesota state academies	Minnesota State Academy for the Deaf	44.2968604	-93.2615245	Faribault	MN
+fulda elementary	Fulda Elementary School	43.87180499999999	-95.6018105	Fulda	MN
+hayes elementary	Hayes Elementary School	33.9909165	-84.63093669999999	Kennesaw	GA
+sobriety high	Sobriety High School	44.7830382	-93.2774663	Burnsville	MN
+orono intermediate elementary	Orono School District	44.99078799999999	-93.59803	Long Lake	MN
+eagle point elementary	Eagle Point Elementary School	26.1275	-80.3997222	Weston	FL
+sanford education center	National University - Spectrum Business Park Campus	32.82948	-117.1272815	San Diego	CA
+mn correctional facility-shakopee	Corrections Facility	44.7906534	-93.537983	Shakopee	MN
+brimhall elementary	Brimhall Elementary School	45.0053554	-93.1735916	Roseville	MN
+dover-eyota middle school	Dover-Eyota High School	43.9831028	-92.2318779	Eyota	MN
+hawley elementary	Hawley Elementary School	41.4147709	-73.3024021	Newtown	CT
+lismore colony elementary	Lismore Colony Elementary School	45.42787999999999	-96.5339879	Clinton	MN
+solo	Solo Cup	32.70807099999999	-97.03142460000001	Grand Prairie	TX
+southwest junior high	Southwest Junior High School	36.1702991	-94.1520163	Springdale	AR
+st. cloud group home	Hayward Group Home	43.65889250000001	-93.250678	Albert Lea	MN
+dassel-cokato senior high	Dassel-Cokato High School	45.0831116	-94.23405919999999	Cokato	MN
+faribault area learning center	Faribault Area Learning Center	44.3206397	-93.2700258	Faribault	MN
+southwood ecse	Early Childhood Special Education	44.8006325	-93.3421587	Minneapolis	MN
+stride academy middle school	Stride Academy	45.5826956	-94.1756113	St Cloud	MN
+litchfield senior high	Litchfield High School	45.1359147	-94.5212924	Litchfield	MN
+aitkin secondary school	Aitkin Secondary School	46.5336663	-93.71121749999999	Aitkin	MN
+climax elementary	Climax-Shelly Public School	47.6077884	-96.8132505	Climax	MN
+home/hospital instruction	Hospital Instructional School	40.831823	-73.827662	Bronx	NY
+byron elementary	Byron Elementary School	32.6506699	-83.7507894	Byron	GA
+newport elementary	Newport Elementary School	33.6064557	-117.9186038	Newport Beach	CA
+st cloud hospital progs-residential	St Cloud Hospital Recovery Plus	45.56464	-94.22310000000002	St Cloud	MN
+edinbrook elementary	Edinbrook Elementary School	45.1171546	-93.3589322	Brooklyn Park	MN
+king elementary	King Elementary School	36.278681	-80.35390000000001	King	NC
+barnum elementary	Barnum Elementary School	39.7176323	-105.0293876	Denver	CO
+brandon secondary	Brandon Elementary School	45.96675889999999	-95.59930469999999	Brandon	MN
+clarkfield charter school	Clarkfield Charter School	44.7827492	-95.8084397	Clarkfield	MN
+odyssey academy	Odyssey Academy	45.06753159999999	-93.33985369999999	Minneapolis	MN
+harvest preparatory school	Harvest Preparatory School	39.8911963	-82.8282892	Canal Winchester	OH
+rockford middle	Rockford Middle School	45.0894767	-93.73724550000001	Rockford	MN
+monticello senior high	Monticello Senior High School	45.2867048	-93.7779824	Monticello	MN
+faribault middle	Faribault Middle School	44.2705263	-93.27821229999999	Faribault	MN
+wabasso secondary	Wabasso Secondary School	44.4051488	-95.2554048	Wabasso	MN
+crest view elementary	Crestview Elementary School	34.2549841	-118.7494495	Simi Valley	CA
+hmong international academy	Hmong International Academy	45.0104329	-93.29846289999999	Minneapolis	MN
+weaver elementary	Jack L. Weaver Elementary School	33.7899973	-118.0854161	Los Alamitos	CA
+first city school	First City School	47.4721708	-94.89688840000001	Bemidji	MN
+red lake county central elementary	Red Lake County Central Elementary	47.9095344	-96.0423344	Plummer	MN
+196 extended school year	196 Extended School Year	44.74260169999999	-93.15645909999999	Rosemount	MN
+probstfield elementary	Probstfield Center for Education	46.8503879	-96.75692099999999	Moorhead	MN
+avalon middle school	Avalon Middle School	30.57015699999999	-87.0976948	Milton	FL
+crosby-ironton secondary	Crosby-Ironton School District	46.4787025	-93.96643390000001	Crosby	MN
+stillwater area public school dist.	Stillwater	45.0025674	-92.82149609999999	Stillwater	USA
+south ridge elementary	Southridge Elementary School	33.01075410000001	-97.001817	Lewisville	TX
+fair school downtown (k-3)	The FAIR School, Downtown Campus	44.975608	-93.2773832	Minneapolis	MN
+columbia heights public school dist	Valley View School	45.05661970000001	-93.2511924	Minneapolis	MN
+face to face academy	Face to Face	44.9762915	-93.06636499999999	St Paul	MN
+eagle view elementary	Eagle View Elementary School	38.851391	-77.3630019	Fairfax	VA
+invest north	NRW.INVEST (NORTH AMERICA) LLC	41.88481580000001	-87.62494799999999	Chicago	IL
+east central senior secondary	East Central Senior High School	46.1799493	-92.8443432	Finlayson	MN
+st. louis park special ed. program	St Louis Park Public Schools	44.9433526	-93.36148449999999	Minneapolis	MN
+greenleaf elementary	Greenleaf Elementary School	44.75542749999999	-93.20847289999999	Apple Valley	MN
+swanville secondary	Swanville Elementary School	45.9108837	-94.6416366	Swanville	MN
+rocori middle	Rocori High School	45.4640399	-94.4289064	Cold Spring	MN
+ada elementary	Ada Elementary School	42.9525745	-85.494164	Ada	MI
+clinton-graceville-beardsley sr.	Clinton Graceville Beardsly Hs	45.56944439999999	-96.4333333	Graceville	MN
+meadow lake elementary	Meadow Lake Elementary School	45.06501340000001	-93.3892371	New Hope	MN
+highland park elementary	Highland Park Elementary School	38.9100227	-94.3133881	Lee's Summit	MO
+new prague senior high	New Prague Senior High School	44.5594783	-93.5766822	New Prague	MN
+drake residential treatment center	Drake Residential Treatment	46.8109876	-95.84684229999999	Detroit Lakes	MN
+st. peter ecse	South Elementary School	44.3166667	-93.97277779999999	St Peter	MN
+monroe elementary	Monroe Elementary School - Mathematics, Science and Children's Engineering	45.093425	-93.29323	Brooklyn Park	MN
+horace may elementary	Horace May Elementary	47.41869560000001	-94.86577899999999	Bemidji	MN
+jefferson senior high	Thomas Jefferson High School	44.8175826	-93.33130369999999	Minneapolis	MN
+pine point elementary	Piney Point Elementary School	29.7245384	-95.5229257	Houston	TX
+lafayette secondary	Lafayette High School	47.8797222	-96.2763889	Red Lake Falls	MN
+melrose middle	Melrose Middle School	42.4639847	-71.06699669999999	Melrose	MA
+milaca secondary high	Milaca High School	45.75088890000001	-93.6579194	Milaca	MN
+dassel elementary	Dassel Elementary School	45.0829672	-94.3065658	Dassel	MN
+montgomery pre k-8	Mckee Pre-K	32.2936772	-86.25510709999999	Montgomery	AL
+long prairie-grey eagle school dist	Long Prairie Grey Eagle Public	45.9717674	-94.86248200000001	Long Prairie	MN
+noble elementary	Noble Elementary School	45.0059122	-93.33984079999999	Minneapolis	MN
+kasson-mantorville senior high	Kasson-Mantorville Senior High School	44.04496389999999	-92.746578	Kasson	MN
+red lake middle school	Red Lake Early Childhood Center	47.8784924	-95.01465449999999	Red Lake	MN
+laporte elementary	La Porte Elementary School	29.6571878	-95.0181985	La Porte	TX
+bigfork secondary	Bigfork Public School	47.74509279999999	-93.6503242	Bigfork	MN
+jackson middle	Jackson Middle School	45.152905	-93.353112	Champlin	MN
+annandale elementary school	Annandale Elementary School	34.1286618	-118.1866466	Los Angeles	CA
+la crescent-hokah elementary	La Crescent-Hokah Elementary School	43.82441039999999	-91.3065546	La Crescent	MN
+greenwood elementary	Greenwood Elementary School	39.6158971	-104.9215334	Greenwood Village	CO
+goodhue county education dist.	Goodhue County Education District	44.5379828	-92.52147629999999	Red Wing	MN
+freshwater ed. dist.	Freshwater Education District	46.36535610000001	-94.7929705	Staples	MN
+south campus 916	South Campus 916 Special Education	45.05901199999999	-93.00005	White Bear Lake	MN
+eden prairie senior high	Eden Prairie High School	44.87173300000001	-93.49316859999999	Eden Prairie	MN
+nasha shkola charter school	Nasha Shkola	44.9407803	-93.4678624	Minnetonka	MN
+castle elementary	John H. Castle Elementary School	37.99048920000001	-87.3839074	Newburgh	IN
+zumbrota-mazeppa elementary school	Zumbrota Elementary School	44.28993130000001	-92.6740011	Zumbrota	MN
+leroy-ostrander public schools	LeRoy Ostrander High School	43.5133279	-92.5098264	Le Roy	MN
+kenyon-wanamingo alternative	Kenyon-Wanamingo Senior High School	44.2677654	-92.99137270000001	Kenyon	MN
+grey cloud elementary	Grey Cloud Elementary School	44.8415611	-92.91100139999999	Cottage Grove	MN
+wadena-deer creek elementary	Wadena-Deer Creek PK-4 Elementary School	46.440421	-95.142585	Wadena	MN
+minnetonka west middle	Minnetonka Public School District	44.9014838	-93.5092779	Minnetonka	MN
+studio academy charter school	Studio Academy Charter School	44.0005171	-92.4695098	Rochester	MN
+mankato west senior high	Mankato West High School	44.1589116	-94.01746899999999	Mankato	MN
+north star academy	North Star Academy	40.49754949999999	-111.9615492	Bluffdale,	 UT
+transition 2 success	Transition 2 Success Special Education	44.027322	-92.649035	Byron	MN
+minnesota valley cooperative	Minn Valley Co-Op Light-Power	44.9412883	-95.72316649999999	Montevideo	MN
+greenhaven elementary	Greenhaven Elementary School	47.4082282	-92.93689239999999	Hibbing	MN
+prairiecare chaska	PrairieCare	44.8182904	-93.60113249999999	Chaska	MN
+central senior high	Central High School	44.9493746	-93.14808719999999	St Paul	MN
+reach academy	Reach Academy	37.74642960000001	-122.1615587	Oakland	CA
+fair school downtown	The FAIR School, Downtown Campus	44.975608	-93.2773832	Minneapolis	MN
+robbinsdale middle	Robbinsdale Middle School	45.0230178	-93.3458723	Minneapolis	MN
+aurora charter school	Aurora Charter School	44.9551375	-93.2412773	Minneapolis	MN
+zimmerman middle	Zimmerman Middle/High School	45.4383792	-93.5952872	Zimmerman	MN
+917 paces	Intermediate School District 917	44.7372305	-93.07795279999999	Rosemount	MN
+apollo senior high	Apollo High School	45.5702131	-94.2106082	St Cloud	MN
+nisswa elementary	Nisswa Elementary School	46.5210757	-94.2863417	Nisswa	MN
+viking elementary	Viking Elementary School	43.96173259999999	-91.2500359	Holmen	WI
+cosmos learning center-transitions	Cosmos Learning Center-Transitions Special Education	44.9398229	-94.6993885	Cosmos	MN
+central education campus	Central Education Campus Special Education	44.54703209999999	-93.5791837	New Prague	MN
+indian mounds elementary	Indian Mounds Elementary School	44.8255205	-93.258556	Bloomington	MN
+mps metro sj	Minneapolis Public Schools	44.99964790000001	-93.2967549	Minneapolis	MN
+john marshall senior high	John Marshall High School	44.0348948	-92.4849539	Rochester	MN
+maxfield elementary school	Maxfield Elementary School	44.9526686	-93.13549400000001	St Paul	MN
+dassel-cokato public school dist.	Dassel-Cokato High School	45.0831116	-94.23405919999999	Cokato	MN
+w.h.a. elementary	Walker Hackensack - Akeley School District	47.0978957	-94.579212	Walker	MN
+truman secondary	Truman Public School	43.82644639999999	-94.4316103	Truman	MN
+willow creek middle	Willowcreek Middle School	40.3897264	-111.8847215	Lehi	UT
+murray middle school	Murray Middle School	44.98434	-93.1934141	St Paul	MN
+milroy area charter school	Milroy Area Charter School	44.415991	-95.5556416	Milroy	MN
+washington-kosciusko elementary	Washington-Kosciusko Elem School	44.04246299999999	-91.6195922	Winona	MN
+austin area learning cntr. - summer	Austin Area Learning Center	43.6683081	-92.9780107	Austin	MN
+town square center	Town Square Centre	41.8432041	-89.4829968	Dixon	IL
+mcguire middle	McGuire Middle School	44.64216649999999	-93.2416824	Lakeville	MN
+s.g.reinertsen elementary	S.G. Reinertsen Elementary School	46.8315466	-96.75982760000001	Moorhead	MN
+st croix valley area learning cntr.	St. Croix Valley Area Learning Center	45.03153710000001	-92.8558813	Stillwater	MN
+eisenhower elementary	Eisenhower Elementary School + Xin Xing Academy	44.9341667	-93.4130311	Hopkins	MN
+loring-nicollet high	Loring Nicollet School	44.9630814	-93.2774374	Minneapolis	MN
+rum river south	Rum River South	45.5902075	-93.21560260000001	Cambridge	MN
+special education facilities	Maryland Association-Nonpublic	39.39961849999999	-76.6054535	Towson	MD
+bamber valley elementary	Bamber Valley Elementary School	43.99168199999999	-92.5004139	Rochester	MN
+round lake secondary	Brewster Elementary School	43.6971841	-95.46583749999999	Brewster	MN
+alc westonka - is	Mound Westonka High School	44.9549153	-93.6719506	Minnetrista	MN
+rosa parks elementary school	Rosa Parks Elementary School	38.6593686	-77.384838	Woodbridge	VA
+omegon	Omegon Inc	44.96384080000001	-93.4211692	Minnetonka	MN
+mn specialty health sys-cambridge	Cambridge Medical Center	45.5669615	-93.2304637	Cambridge	MN
+watershed high school	Watershed High School	44.8842872	-93.2513962	Richfield	MN
+pelican rapids alt center mid-level	Pelican Rapids High School	46.5659639	-96.08433690000001	Pelican Rapids	MN
+linwood monroe arts plus lower	Linwood School	44.93607669999999	-93.1432758	St Paul	MN
+south washington county school dist	South Washington County Schools	44.8297473	-92.95641379999999	Cottage Grove	MN
+duluth public schools academy	The DECS North Star Academy	46.8275554	-92.13409419999999	Duluth	MN
+lester prairie elementary	Lester Prairie Secondary School	44.8872705	-94.0439758	Lester Prairie	MN
+grand rapids senior high	Grand Rapids High School	47.247146	-93.542346	Grand Rapids	MN
+assessment center elem	The Fairhill School	32.9711921	-96.8029742	Dallas	TX
+pelican rapids alt learning center	Pelican Rapids High School	46.5659639	-96.08433690000001	Pelican Rapids	MN
+paladin academy	Paladin Academy	26.02652299999999	-80.3464252	Pembroke Pines	FL
+richardson elementary	Richardson Elementary School	45.0200329	-92.9982476	St Paul	MN
+middle river elementary	Glenmar Elementary School	39.3460776	-76.4475537	Middle River	MD
+roseau secondary	Roseau Secondary School	48.84832420000001	-95.756284	Roseau	MN
+mankato east jr.	Mankato East Junior High School	44.1574397	-93.9620891	Mankato	MN
+green acres	GreenAcres Market	37.7222375	-97.24244979999999	Wichita	KS
+lyndale elementary	Lyndale Elementary School	44.94172209999999	-93.28310359999999	Minneapolis	MN
+orono middle	Orono Middle School	44.9960669	-93.591602	Long Lake	MN
+banfield elementary	Banfield Elementary School	43.665364	-92.99674499999999	Austin	MN
+austin community learning center	Austin Community Learning Center Special Education	43.6675621	-92.9645683	Austin	MN
+rtr middle school	RTR Middle School	44.3166667	-95.9508333	Russell	MN
+grygla secondary	Grygla Elementary School	48.30210899999999	-95.620065	Grygla	MN
+hermantown elementary	Hermantown Elementary School	46.8229109	-92.24547299999999	Hermantown	MN
+wright technical center alc middle	Wright Technical Center	45.192034	-93.86992400000001	Buffalo	MN
+salem hills elementary	Salem Hills Elementary School	44.86405689999999	-93.0695229	Inver Grove Heights	MN
+naytahwaush community school	Naytahwaush Community Charter School	47.2621195	-95.62721549999999	Naytahwaush	MN
+martin county west senior high	Martin County West High School	43.65817000000001	-94.72988710000001	Sherburn	MN
+noble academy	Noble Academy	36.147219	-79.87470499999999	Greensboro	NC
+hancock elementary	Hancock Elementary School	33.2712935	-111.852329	Chandler	AZ
+fulda secondary	Fulda Secondary School	43.8741297	-95.60445240000001	Fulda	MN
+271 metro south abe	Metro South Adult Basic Education	44.8437787	-93.3122867	Bloomington	MN
+henry senior high	Patrick Henry High School	45.0342473	-93.3052853	Minneapolis	MN
+upsala secondary	Upsala Secondary School	45.8030499	-94.5715278	Upsala	MN
+falcon heights elementary	Falcon Heights Elementary School	44.99590349999999	-93.15868189999999	Falcon Heights	MN
+lakeside elementary	Lakeside Elementary School	41.12454270000001	-112.0822888	West Point	UT
+options	Options	41.87664400000001	-87.6332966	Chicago	IL
+warroad elementary	Warroad Middle School	48.91086209999999	-95.32994169999999	Warroad	MN
+climax secondary	Climax High School	47.6077884	-96.8132505	Climax	MN
+little falls senior high	Little Falls Community Middle School	45.9757286	-94.3477748	Little Falls	MN
+northern elementary	Northern Elementary School	38.06396610000001	-84.4627155	Lexington	KY
+afterschool program	After School Program	26.1609078	-81.7526367	Naples	FL
+w st. paul area learning cntr.	Area Learning Center	44.73242510000001	-93.1833869	St Paul	MN
+homecroft elementary	Homecroft Elementary School	39.66673189999999	-86.13176539999999	Indianapolis	IN
+w. h. a .  alternative program	Guadalupe Alternitive Programs	44.9282962	-93.0692122	St Paul	MN
+rossman elementary	Rossman Elementary School	43.3241228	-88.3708037	Hartford	WI
+transition program	Transition Program at Pva	41.285403	-96.0321744	Omaha	NE
+glyndon-felton elementary	Glyndon-Felton Elementary School	46.8715457	-96.5813455	Glyndon	MN
+caledonia middle	Caledonia Middle School	33.6802651	-88.32894139999999	Caledonia	MS
+northern lights academy	Northern Lights Academy	47.7710696	-96.6240129	Crookston	MN
+kelliher elementary	Kelliher Elementary School	47.9446342	-94.45208199999999	Kelliher	MN
+transitions program	Care Transitions Program	39.748036	-104.8345216	Auroa	CO
+montevideo middle	Montevideo Middle School	38.3657062	-78.7744939	Penn Laird	VA
+littlefork-big falls school dist.	Littlefork-Big Falls School	48.3994037	-93.5522622	Littlefork	MN
+big lake middle school	Big Lake Middle School	45.3374993	-93.73742179999999	Big Lake	MN
+eagle view	Eagle View	35.3245796	-120.4857516	California	
+littlefork-big falls secondary	Littlefork-Big Falls School	48.3994037	-93.5522622	Littlefork	MN
+northeast range secondary	Babbitt Elementary School	47.70805559999999	-91.9508333	Babbitt	MN
+northside elementary	Northside School	35.917366	-79.0636224	Chapel Hill	NC
+southern plains education coop.	Southern Plains Education Cooperative	43.65493370000001	-94.4608355	Fairmont	MN
+prairie house school	Prairie House School	45.317899	-93.831334	Monticello	MN
+mid stat ed dist. success prog.	Mid State Education District Success Program Special Education	45.9785697	-94.3618029	Little Falls	MN
+deephaven elementary	Deephaven Elementary School	44.9231929	-93.5241049	Wayzata	MN
+waterville elementary	Waterville Elementary School	35.09977129999999	-84.8718269	Cleveland	TN
+river bend day treatment program	Rivers Bend PC	42.5427785	-83.1182822	Troy	MI
+riverside	Riverside	33.9533487	-117.3961564	Riverside	CA, USA
+waubun secondary	Waubun High School	47.1810427	-95.9397304	Waubun	MN
+prairie seeds middle school academy	Prairie Seeds Academy	45.0661964	-93.37390780000001	Minneapolis	MN
+kaposia education center elementary	Kaposia Education Center Elementary School	44.86977100000001	-93.03386040000001	St Paul	MN
+fisher elementary	Wilma Fisher Elementary School	33.1586349	-96.86927779999999	Frisco	TX
+minnewaska secondary alternative pg	Minnewaska School District	45.6133516	-95.5355945	Starbuck	MN
+capitol hill magnet/rondo	Capitol Hill Magnet	44.95046049999999	-93.122344	St Paul	MN
+lincoln early childhood ed. center	Lincoln County R-III Early Childhood Education Center	38.9565728	-90.9740573	Troy	MO
+ivan sand community school-middle	Ivan Sand After School Credit Recov	45.31212540000001	-93.57930569999999	Elk River	MN
+starland elementary	Starland Elementary School	44.6081965	-94.47277729999999	Gibbon	MN
+maple grove junior high	Maple Grove Middle School	45.0812087	-93.42836729999999	Maple Grove	MN
+kenyon-wanamingo elementary	Kenyon Elementary School	44.2675	-92.9902778	Kenyon	MN
+fillmore central elementary	Fillmore Central Elementary School	40.5275067	-97.58865949999999	Geneva	NE
+dream technical academy	DREAM Technical Academy	45.14319099999999	-95.01816889999999	Willmar	MN
+osseo junior high	Osseo Middle School	45.1225411	-93.4114505	Osseo	MN
+beacon alp is	Beacon Academy Charter School	45.11889009999999	-93.48536299999999	Maple Grove	MN
+isanti intermediate school	Isanti Intermediate School	45.4904156	-93.2279257	Isanti	MN
+winsted elementary	Winsted Elementary School	44.968611	-94.04972219999999	Winsted	MN
+red lake alternative learning	Red Lake Alternative Learning	47.8775713	-95.013904	Red Lake	MN
+harbor city international charter	Harbor City International School	46.7828679	-92.1022423	Duluth	MN
+humboldt secondary school	Humboldt High School	44.92559529999999	-93.08393199999999	St Paul	MN
+red rock ridge area learning cntr	Red Rock Ridge Area Learning Center	43.86648100000001	-95.1085667	Windom	MN
+lac qui parle valley middle school	Lac qui Parle Valley High School	45.07281769999999	-96.0586271	Madison	MN
+cass lake-bena elementary	Cass Lake-Bena Elementary School	47.3811075	-94.60277819999999	Cass Lake	MN
+cannon falls secondary	Cannon Falls High School	44.5120538	-92.8898442	Cannon Falls	MN
+north view ib world school	North View Jr. High an IB World School	45.0789347	-93.3543783	Brooklyn Park	MN
+ordean east middle school	Ordean-East Middle School	46.81731389999999	-92.0646386	Duluth	MN
+spring prairie elementary	Spring Prairie Elementary School	46.9359408	-96.4431377	Hawley	MN
+prairie lakes education center	Prairie Lakes School	45.142202	-95.0078265	Willmar	MN
+northwest area learning center	Northwest Area Learning Center	48.114595	-96.180582	Thief River Falls	MN
+lewiston-altura intermediate el.	Lewiston Altura Intermediate	44.0705189	-91.93515769999999	Altura	MN
+renville county west elementary	Renville County West Senior High School	44.7913077	-95.2079809	Renville	MN
+oak park elementary	Oak Park Elementary School	45.040977	-92.80561499999999	Stillwater	MN
+pillager elementary	Pillager Elementary School	46.3273577	-94.46992329999999	Pillager	MN
+brooker learning center	Brooker Memorial Inc: Child Care & Learning Center	41.79722	-73.123975	Torrington	CT
+la crescent montessori & stem acad	La Crescent Montessori Academy	43.8178398	-91.30632349999999	La Crescent	MN
+hutchinson west elementary	Hutchinson West Elementary School	44.8800339	-94.3944965	Hutchinson	MN
+hmong college prep academy	Hmong College Prep Academy	44.9751	-93.1639811	St Paul	MN
+rum river special education coop	Rum River Special Ed Co-Op	45.57343909999999	-93.2214917	Cambridge	MN
+area learning center summer	White Bear Lake Area High School - Insight	45.0441329	-92.9991818	St Paul	MN
+sabathani campus	Sabathani Campus	44.9343346	-93.2720935	Minneapolis	MN
+cook county senior high	Cook County High School	47.7566454	-90.334098	Grand Marais	MN
+metro deaf sch - mn north star acad	Metro Deaf School	44.975124	-93.162031	St Paul	MN
+wadena-deer creek senior high	Wadena-Deer Creek High School	46.44292809999999	-95.14733679999999	Wadena	MN
+rushford-peterson public schools	Rushford-Peterson Elem School	43.8118833	-91.75289719999999	Rushford	MN
+fertile-beltrami elementary	Fertile-Beltrami School District	47.5323657	-96.28134469999999	Fertile	MN
+middle area learning center	Middle Area Learning Center	47.2436819	-93.5138923	Grand Rapids	MN
+life lines adult connection	Lifeline-North County	33.1828275	-117.3251889	Oceanside	CA
+cyber village academy	Cyber Village Academy	44.91836259999999	-93.1561642	St Paul	MN
+cityview community	Cityview Community School	45.0160875	-93.2842881	Minneapolis	MN
+lakeside el.	El Capitan High School	32.866416	-116.918293	Lakeside	CA
+hendricks senior high	Hendricks Public School	44.5063525	-96.4222685	Hendricks	MN
+heartland elementary	Heartland Elementary School	38.896075	-94.6794845	Overland Park	KS
+westbrook-walnut grove schools	Walnut Grove Elementary School	44.2202778	-95.4694444	Walnut Grove	MN
+oak point intermediate elementary.	Oak Point Elementary School	44.8444885	-93.4466868	Eden Prairie	MN
+oak view elementary	Oak View Elementary School	38.81880049999999	-77.3098265	Fairfax	VA
+juvenile service center	La Porte County - Juvenile Services Center	41.60174589999999	-86.7488434	La Porte	IN
+edward neill elementary	Edward Neill Elementary	44.7599889	-93.3128852	Burnsville	MN
+project search-avera marshall	Avera Marshall Regional Medical Center	44.4476554	-95.7775473	Marshall	MN
+linwood monroe arts plus upper	Linwood Monroe Elementary School	44.9283666	-93.1350133	St Paul	MN
+brown elementary	Brown Elementary School	39.7542623	-105.0338949	Denver	CO
+montgomery-lonsdale secondary	Montgomery-Lonsdale High School	44.43885369999999	-93.57953049999999	Montgomery	MN
+river trail learning ctr @ lo jacob	River Trail Learning Center at L.O. Jacob	45.155711	-93.30986	Coon Rapids	MN
+united south central school dist.	United South Central High School	43.7340249	-93.73514759999999	Wells	MN
+alc evening high school	Evening High School	44.9553604	-93.1512195	St Paul	MN
+saint cloud math and science academ	Math & Science Academy	44.91276939999999	-92.9357309	Woodbury	MN
+milaca area learning center	Milaca Area Learning Center	45.7520484	-93.65428059999999	Milaca	MN
+sebeka secondary	Sebeka Secondary School	46.63074450000001	-95.09079559999999	Sebeka	MN
+gateway academy	Gateway Academy	33.5744973	-111.9036236	Scottsdale	AZ
+merritt elementary	Merritt Elementary School	47.51809799999999	-92.596053	Mountain Iron	MN
+twin lakes elementary	Twin Lakes Elementary	38.6664695	-121.2031096	Orangevale	CA
+minnewaska area junior high	Minnewaska Area High School	45.6247531	-95.455184	Long Beach	MN
+bloomington shared time	Bloomington Shared Time	44.8116898	-93.29644599999999	Bloomington	MN
+amberwing	Amberwing-Center for Youth & Family Well-Being	46.8050679	-92.1130142	Duluth	MN
+paul bunyan center	Paul Bunyan Land	46.3487409	-94.0272573	Brainerd	MN
+waterville-elysian-morristown jr.	W-E-M Public Schools	44.2243314	-93.44413279999999	Morristown	MN
+morrison county learning center	Morrison County Learning Center	45.9805066	-94.35179509999999	Little Falls	MN
+mendota elementary	Mendota Elementary School	44.88691	-93.14299729999999	St Paul	MN
+alc learning online	Area Learning Center	44.999574	-93.250534	Minneapolis	MN
+zachary lane elementary	Zachary Lane Elementary School	45.0342366	-93.4201487	Plymouth	MN
+robbinsdale cooper senior high	Robbinsdale Cooper High School	45.0420699	-93.38542819999999	New Hope	MN
+willmar senior high	Willmar Senior High School	45.1523308	-95.00337640000001	Willmar	MN
+two harbors secondary	Two Harbors High School	47.04962039999999	-91.66526909999999	Two Harbors	MN
+northern lights community school	Northern Lights Community School	47.129131	-93.27049149999999	Warba	MN
+edgewood middle school	Edgewood Middle School	34.062232	-117.9511752	West Covina	CA
+northland learning center 020	Northland Learning Center	47.51449849999999	-92.55388459999999	Virginia	MN
+school of environmental studies	School of Environmental Studies	44.77234960000001	-93.19023279999999	Apple Valley	MN
+lino lakes elementary	Lino Lakes Elementary School	45.19761700000001	-93.105651	Lino Lakes	MN
+m.a.c.c.r.a.y. senior high	MACCRAY High School	44.9572288	-95.3740189	Clara City	MN
+west metro education program	West Metro Education Program	44.983735	-93.3405401	Golden Valley	MN
+jeffers pond elementary	Jeffers Pond Elementary School	44.736615	-93.440872	Prior Lake	MN
+minneapolis academy charter school	Minneapolis Academy	44.91214919999999	-93.22672419999999	Minneapolis	MN
+abe diploma program	Rahncliff Abe Diploma Program	44.78834439999999	-93.2094712	Eagan	MN
+pinewood el.	Pinewood Elementary School	38.7660145	-120.588538	Pollock Pines	CA
+barnesville secondary	Barnesville Secondary School	46.65095900000001	-96.416822	Barnesville	MN
+challenger elementary	Challenger Elementary School	26.1947356	-80.27710019999999	Tamarac	FL
+mound-westonka high school	Mound Westonka High School	44.9549153	-93.6719506	Minnetrista	MN
+new york mills secondary	New York Mills Elementary School	46.5221726	-95.37844830000002	New York Mills	MN
+wilshire park elementary	Wilshire Park Elementary School	34.06097889999999	-118.3165408	Los Angeles	CA
+albert lea area learning center	Albert Lea Area Learning Center	43.6637553	-93.3717975	Albert Lea	MN
+central park elementary	Central Park Elementary School	26.13120109999999	-80.2885258	Plantation	FL
+pines school	The Pine School	27.05151979999999	-80.1406964	Hobe Sound	FL
+minnesota online high school	Minnesota Online High School	44.9626188	-93.19530089999999	St Paul	MN
+career & technical center	Muskegon Area Career Tech Center	43.2517427	-86.2027221	Muskegon	MI
+st. anthony village senior high	St.Anthony Village High School	45.0284866	-93.2142551	Minneapolis	MN
+287 oll academic	287 Academic Way	30.44817190000001	-84.30331939999999	Tallahassee	FL
+lester prairie public school dist.	Lester Prairie Secondary School	44.8872705	-94.0439758	Lester Prairie	MN
+fridley middle	Fridley Middle School	45.08048429999999	-93.25193709999999	Minneapolis	MN
+headway academy	Headway Emotional Health Services	45.0627108	-93.31162479999999	Minneapolis	MN
+west side elementary	West Side Elementary School	33.9564691	-84.56244559999999	Marietta	GA
+mahnomen area learning center	Mahnomen Area Learning Center	47.3163682	-95.97019159999999	Mahnomen,	
+strive transition  south	Peregrine Corporation	43.6394365	-70.3232251	South Portland	ME
+bridge transition program	Ohio Association of County Boards of DD	40.107123	-83.013689	Worthington	OH
+minnewashta elementary	Minnewashta Elementary	44.89966680000001	-93.6148375	Excelsior	MN
+blackduck secondary	Blackduck Public School	47.7313889	-94.5458333	Blackduck	MN
+golden lake elementary	Golden Lake Elementary School	45.13245089999999	-93.15015059999999	Circle Pines	MN
+north branch middle	North Branch Area Middle School	45.5075349	-92.9664373	North Branch	MN
+early education - birth to three	Birth To Three Connections	44.08058219999999	-103.2475886	Rapid City	SD
+jackson county central middle	Jackson County Central Middle School	43.67972109999999	-95.1720607	Lakefield	MN
+yankton country charter school	School Bus Inc	43.55025149999999	-96.78910789999999	Sioux Falls	SD
+bemidji middle	Bemidji Middle School	47.4874054	-94.9095201	Bemidji	MN
+stillwater junior high	Stillwater Junior High School	45.043857	-92.812844	Stillwater	MN
+alc mgjh middle year	Maple Grove Middle School	45.0812087	-93.42836729999999	Maple Grove	MN
+belview learning ctr bridges	Belview Learning Center	44.6053545	-95.3269266	Belview	MN
+isle secondary	Isle Secondary School	46.1327912	-93.47220999999999	Isle	MN
+minnewaska day treatment program	Minnewaska Area Middle School	45.6248403	-95.4548666	Glenwood	MN
+root river program	Root River Program	43.5520556	-92.006408	Harmony	MN
+nova classical academy lower school	Nova Classical Academy	44.9177201	-93.1374867	St Paul	MN
+springfield elementary	Springfield Elementary School	35.0559002	-80.931505	Fort Mill	SC
+anna westin house	Anna Westin House	44.9848866	-93.1875912	St Paul	MN
+special ed.	Grundy County Special Ed Co-Op	41.36647799999999	-88.433863	Morris	IL
+lanesboro elementary	Lanesborough Elementary School	42.5140385	-73.2207325	Lanesborough	MA
+kingsland middle	Kingsland Middle School	43.7091307	-92.2696098	Wykoff	MN
+albany elementary	Albany Elementary School	40.3003208	-85.2458034	Albany	IN
+oshki ogimaag charter school	Oshki Ogimaag Charter School	47.96765859999999	-89.68060559999999	Grand Portage	MN
+huddleston elementary	Huddleston Elementary School	33.38626309999999	-84.5695782	Peachtree City	GA
+a.c.g.c. secondary	Secondary	31.1817593	31.2155176		
+lanesboro secondary	Lanesboro Elementary School	43.71657599999999	-91.9769499	Lanesboro	MN
+trio wolf creek distance learning	Trio Wolf Creek Charter School	45.377132	-92.8961549	Chisago City	MN
+andover elementary	Andover Elementary School	45.242009	-93.30881199999999	Andover	MN
+north academy arts/communication	North Community High School	44.9941358	-93.30058149999999	North Minneapolis	MN
+long tieng academy	Long Teng Academy	44.9608447	-93.1564518	St Paul	MN
+area adult learning cooperative	Le Sueur News Herald	44.46137299999999	-93.91498179999999	Le Sueur	MN
+917 dash	Intermediate School District 917	44.7372305	-93.07795279999999	Rosemount	MN
+field elementary	Eugene Field Elementary School	29.8009206	-95.38882860000001	Houston	TX
+lakewood elementary	Lakewood Elementary School	30.002137	-95.5975939	Tomball	TX
+sleepy eye elementary	Sleepy Eye Elementary School	44.2941027	-94.7274624	Sleepy Eye	MN
+alice smith elementary	Alice Smith Elementary School	44.9321889	-93.4101113	Hopkins	MN
+early education mississippi ca	Early Childhood Institute	32.4450696	-90.11879739999999	Madison	MS
+monticello alternative program	Monticello Alternative Program	45.2923074	-93.79605889999999	Monticello	MN
+red rock central elementary	Red Rock Central Elementary School	44.0596793	-95.1958269	Jeffers	MN
+robbinsdale transition center	Robbinsdale Transition Center Special Education	45.0391649	-93.38716199999999	Minneapolis	MN
+explore	Explore Okoboji	43.4222448	-95.1362614	Spirit Lake	IA
+west central area learning center	West Central Area Learning Center	45.6728825	-94.81439689999999	Melrose	MN
+transition plus	Transition Plus High School	44.94271089999999	-93.26173779999999	Minneapolis	MN
+nerstrand charter school	Nerstrand Elementary School	44.33938339999999	-93.0691355	Nerstrand	MN
+hutchinson middle	Arlie F Hutchinson Middle School	33.90445829999999	-118.0236755	La Mirada	CA
+willow lane elementary	Willow Lane Elementary School	40.5327223	-75.5665966	Macungie	PA
+melrose secondary	Melrose Secondary School	45.6812248	-94.80767569999999	Melrose	MN
+aurora middle school	Aurora Middle School	40.86604820000001	-98.0149677	Aurora	NE
+floodwood elementary	Floodwood Elementary School	46.930352	-92.91575569999999	Floodwood	MN
+woodland hills academy	Woodland Hills Academy	34.170387	-118.586746	Woodland Hills	CA
+rock bend hs alc	Rock Bend High School	44.3425582	-93.9624821	St Peter	MN
+motley-staples middle	Motley-Staples Middle School	46.3358333	-94.6433333	Motley	MN
+swmetro online learning	SouthWest Metro Educational Cooperative	44.7843349	-93.5539376	Shakopee	MN
+early childhood special education	Early Childhood Special Education	44.9419743	-93.26189289999999	Minneapolis	MN
+park rapids area century elementary	Park Rapids Area Century Elementary School	46.9278139	-95.0720652	Park Rapids	MN
+norman county  west secondary	Norman County West Superintendent	47.3517105	-96.8232451	Halstad	MN
+kerkhoven-murdock-sunburg	Kerkhoven-murdock-sunburg	45.2127957	-95.3304196	Kerkhoven-murdock-sunburg	MN, USA
+buffalo-hanover-montrose public sch	Phoenix Learning Center	45.17967519999999	-93.8638689	Buffalo	MN
+hmong college prep middle academy	Hmong College Prep Academy	44.9751	-93.1639811	St Paul	MN
+columbia academy	Columbia Academy	39.2360874	-76.8304789	Columbia	MD
+ivan sand community school summer	Ivan Sand After School Credit Recov	45.31212540000001	-93.57930569999999	Elk River	MN
+pullman elementary	Pullman Elementary School	44.8354863	-92.98106609999999	St Paul Park	MN
+pride transitions	Pride Transitions	45.1758573	-93.8746562	Buffalo	MN
+lowell elementary	Lowell Elementary School	37.3294461	-121.8776434	San Jose	CA
+centerville elementary	Centerville Elementary School	36.7685246	-76.1899585	Virginia Beach	VA
+math and science academy	Math & Science Academy	44.91276939999999	-92.9357309	Woodbury	MN
+worthington 518 (virtual instruct	Worthington Area Learning Center	43.6261586	-95.61303240000001	Worthington	MN
+washington elementary	Washington Elementary School	35.76740280000001	-78.64292139999999	Raleigh	NC
+circle of life	Circle of Life Hospice	36.1784123	-94.2095993	Springdale	AR
+anoka high school	Anoka High School	45.224573	-93.38192	Anoka	MN
+normandale elementary	Normandale Elementary School	44.8985043	-93.34901730000001	Minneapolis	MN
+mesabi east elementary	Mesabi East Elementary School	47.5316038	-92.2411911	Aurora	MN
+sunset terrace elementary	Sunset Terrace Elementary School	44.0403886	-92.49356159999999	Rochester	MN
+clay county outreach center	Clay County Outreach Center	46.8723147	-96.7436396	Moorhead	MN
+pillager middle school	Pillager High School	46.3276074	-94.4711672	Pillager	MN
+linwood elementary	Linwood Elementary School	45.366966	-93.109769	Wyoming	MN
+winona early childhood special ed.	Winona State University	44.0473997	-91.6432837	Winona	MN
+montevideo senior high	Montevideo High School	44.93888889999999	-95.70833329999999	Montevideo	MN
+chaska middle school east	Chaska Middle School East	44.8070056	-93.5961878	Chaska	MN
+marshall county central high	Newfolden Elementary School	48.3566475	-96.33248139999999	Newfolden	MN
+lucy laney @ cleveland park elem.	Lucy Laney at Cleveland Park Community School	45.0157691	-93.30907529999999	Minneapolis	MN
+red pine elementary	Red Pine Elementary School	44.7815366	-93.10979019999999	St Paul	MN
+waseca junior high	Waseca High School	44.0944109	-93.50970269999999	Waseca	MN
+dilworth-glyndon-felton middle sch	Dilworth-Glyndon-Felton Junior High School	46.8783457	-96.7037369	Dilworth	MN
+open world learning secondary	Open World Learning Community	44.92672919999999	-93.08444589999999	St Paul	MN
+south point elementary	South Pointe Elementary School	25.7730054	-80.13908289999999	Miami Beach	FL
+mankato east senior high	Mankato East Senior High School	44.1575154	-93.9604246	Mankato	MN
+howe elementary	Julia Ward Howe Elementary School	40.3756824	-80.03075849999999	Mt Lebanon	PA
+saint paul music academy	St Paul Music Academy	44.97603	-93.1002309	St Paul	MN
+litchfield middle school	Litchfield Middle School	41.099059	-81.57198199999999	Akron	OH
+reflections	Reflections	38.4352637	-78.8491653	Harrisonburg	VA
+main street school performing arts	Main Street School of Performing Arts	44.923813	-93.417403	Hopkins	MN
+red lake secondary	Red Lake Senior High School	47.87849259999999	-95.01437899999999	Red Lake	MN
+prairie care edina - php	PrairieCare	44.8869116	-93.3262785	Edina	MN
+wellstone international high	Wellstone International High School	44.9419957	-93.2608767	Minneapolis	MN
+henning elementary	W. T. Henning Elementary School	30.217388	-93.3723739	Sulphur	LA
+seven hills preparatory academy	Seven Hills Preparatory Academy	44.8458748	-93.25399060000001	Bloomington	MN
+plainview-elgin-millville	Plainview-Elgin-Millville High School	44.1654449	-92.17346049999999	Plainview	MN
+279 osseo sr hi alc	Osseo Senior High School	45.1203771	-93.40723679999999	Osseo	MN
+eden lake elementary	Eden Lake Elementary School	44.8432513	-93.4282077	Eden Prairie	MN
+chisholm elementary	Chisholm Elementary School	35.622705	-97.4505104	Edmond	OK
+evansville secondary	University of Evansville	37.9732856	-87.53168099999999	Evansville	IN
+wilderness endeavors program	Wilderness Endeavors Esy	47.7801798	-93.22017319999999	Cook	MN
+red wing area learning center	Tower View Opportunity Program Area Learning Center	44.5692219	-92.6368129	Red Wing	MN
+swan river montessori charter sch	Swan River Montessori Charter School	45.3042108	-93.80183629999999	Monticello	MN
+le center pre k-8	Le Center Elementary School	44.39154689999999	-93.7343243	Le Center	MN
+heritage science & technology	Heritage Academy of Science and Technology	44.98906969999999	-93.22622659999999	Minneapolis	MN
+indus secondary	Indus School	48.6297569	-93.90174499999999	Birchdale	MN
+l'etoile du nord french immersion l	L' Etoile Du Nord French Immersion	44.9707418	-93.0266485	St Paul	MN
+bancroft elementary	Bancroft Elementary School	44.9338268	-93.25555779999999	Minneapolis	MN
+is the alternative program (tap)	UCSB Transportation Alternatives Program (TAP) Office	34.419708	-119.85275	Santa Barbara	CA
+forest view elementary	Forest View Elementary School	35.9887501	-78.991845	Durham	NC
+albany junior high	Albany Junior High School	-36.748244	174.691835	Albany, New Zealand	 Auckland
+lincoln education center	Gregory-Lincoln Education Center	29.7562425	-95.38506000000001	Houston	TX
+parkview center school	Parkview Center School	45.008069	-93.1297903	Roseville	MN
+browerville elementary	Browerville Public School	46.0858333	-94.8713889	Browerville	MN
+higher ground secondary academy	Higher Ground Academy	44.9491308	-93.1586767	St Paul	MN
+minnesota transitions alp	Minnesota Transitions Charter Schools	44.9502773	-93.2375465	Minneapolis	MN
+safe	SAFE Credit Union	38.7944082	-121.2682142	Rocklin	CA
+perham area learning center	Perham Area Learning Center	46.5909334	-95.57704299999999	Perham	MN
+howard lake middle	Saint James Lutheran Church and School	45.056268	-94.06826699999999	Howard Lake	MN
+river bend educational center	River Bend Education Center	44.9811873	-93.2993604	Minneapolis	MN
+olson middle	Olson Middle School	45.04652209999999	-93.3010364	Minneapolis	MN
+franklin elementary	Franklin Elementary School	39.5999879	-104.9691482	Centennial	CO
+sartell middle	Sartell Middle School	45.6276166	-94.2112464	Sartell	MN
+mcf-moose lake/willow river	Minnesota Correctional Facility - Willow River/Moose Lake	46.4405678	-92.75855039999999	Moose Lake	MN
+northwinds elementary	Northwinds Elementary School	45.184018	-93.891667	Buffalo	MN
+akin road elementary	Akin Road Elementary School	44.6680213	-93.17243959999999	Farmington	MN
+s st. paul community lrng. cntr.	S St. Paul Community Learning Center	44.88176379999999	-93.03390209999999	St Paul	MN
+lehmann center	Lehman Center for the Performing Arts	40.8724545	-73.89353899999999	Bronx	NY
+lakeville early childhood program	Crystal Lake Education Center	44.712749	-93.2580873	Lakeville	MN
+roosevelt senior high	Theodore Roosevelt High School	34.03812420000001	-118.2110376	Los Angeles	CA
+crestview elementary	Crestview Elementary School	34.96292040000001	-82.2219149	Greer	SC
+prairie view elementary	Prairie View Elementary School	38.9084337	-94.3370607	Lee's Summit	MO
+pact charter secondary	Pact Charter School	45.23378399999999	-93.45128	Anoka	MN
+windom school	Windom School	44.896618	-93.2800055	Minneapolis	MN
+dugsi academy	Dugsi Academy	44.974573	-93.1684702	St Paul	MN
+community of peace academy sec.	Community of Peace Academy	44.9740774	-93.0805355	St Paul	MN
+swmetro independent study	Portland State University Independent Study Program	45.5134451	-122.6810159	Portland	OR
+isd 181 learning center	Area Education Center	46.3622994	-94.17508319999999	Brainerd	MN
+finlayson elementary	Finlayson Elementary School	46.2019642	-92.9223634	Finlayson	MN
+new prague area schools	New Prague Area Schools	44.5475351	-93.57818979999999	New Prague	MN
+woodbury senior high	Woodbury High School	44.9090189	-92.96070809999999	Woodbury	MN
+hinckley-finlayson secondary	Hinckley-Finlayson School Superintendent	46.0161111	-92.94	Hinckley	MN
+learn at my pace online high school	Learn at My Pace Online High School	46.4754247	-96.28357109999999	Rothsay	MN
+gordon bailey elementary	Gordon Bailey Elementary School	44.8894145	-92.9622638	Woodbury	MN
+acgc elementary grades 5 and 6	A.C.G.C. Secondary School	45.14304430000001	-94.6853994	Grove City	MN
+triton high school	Triton High School	35.3382061	-78.6650339	Erwin	NC
+lake harriet upper school	Lake Harriet Upper Elementary School	44.9135901	-93.316904	Minneapolis	MN
+283-st. louis park alc	St Louis Park School District 283	44.9550348	-93.39962009999999	Minneapolis	MN
+st. michael-albertville school dist	St. Michael-Albertville Senior High School	45.235588	-93.6908996	St Michael	MN
+metcalf junior high	John Metcalf Junior High School	44.8037618	-93.22538569999999	Burnsville	MN
+redtail ridge elementary school	Redtail Ridge Elementary School	44.72715030000001	-93.36400119999999	Prior Lake	MN
+state total	Wayne State University	42.3591388	-83.06654619999999	Detroit	MI
+l'etoile du nord french immersion u	L' Etoile Du Nord French Immersion	44.9707418	-93.0266485	St Paul	MN
+luverne elementary	Luverne Elementary School	43.66153369999999	-96.2159964	Luverne	MN
+early ed john a. johnson	John A Johnson Elementary School	44.9680755	-93.0687408	St Paul	MN
+fairview elementary	Fairview Elementary School	38.7976738	-77.32436009999999	Fairfax Station	VA
+morris area elementary	Morris Area Elementary School	45.5838025	-95.9007669	Morris	MN
+watkins elementary	Watkins Elementary School	38.8834216	-76.9898812	Washington	DC
+core	Center For Organ Recovery	40.5045035	-79.8654835	Pittsburgh	PA
+rockford hs credit recovery program	Auburn High School-Main Campus	42.2858419	-89.1376805	Rockford	IL
+invest high school	Roosevelt High School	42.4702234	-83.1109517	Hazel Park	MI
+valley crossing community school	Valley Crossing Community School	44.9166624	-92.9061436	Woodbury	MN
+burnsville alternative high school	Cedar Alternative Center	44.8056185	-93.2165722	St Paul	MN
+plymouth middle	Plymouth Middle School	45.0210014	-93.4062477	Minneapolis	MN
+prairie seeds el school academy	Prairie Seeds Academy	45.0661964	-93.37390780000001	Minneapolis	MN
+hlww alternative learning program	HLWW Alternative Learning Program	45.0588808	-94.07090180000002	Howard Lake	MN
+high school summer program	Harvard Summer School	42.3744792	-71.1215378	Cambridge	MA
+central mn. alc - sauk rapids	Sauk Rapids Rice Public Schools	45.6096257	-94.12581949999999	Sauk Rapids	MN
+buffalo community middle	Buffalo Community Middle School	45.1902777	-93.87222220000001	Buffalo	MN
+la crescent-hokah middle school	La Crescent-Hokah Middle/High School	43.8156401	-91.31285179999999	La Crescent	MN
+winterquist elementary	Winterquist Elementary School	46.70614	-92.36188299999999	Esko	MN
+litchfield middle	Litchfield Middle School	41.099059	-81.57198199999999	Akron	OH
+owatonna ecse	Owatonna Community Education	44.07290799999999	-93.2249507	Owatonna	MN
+paynesville area high school	Paynesville Middle School	45.3730828	-94.72776879999999	Paynesville	MN
+vector  basic  south	Vector Security	35.58232820000001	-78.7999821	Fuquay Varina	NC
+idea/farmington campus	Farmington Elementary School	44.63372409999999	-93.14146939999999	Farmington	MN
+randolph heights elementary	Randolph Heights Elementary School	44.931059	-93.15589940000001	St Paul	MN
+insight school of minnesota	Insight School of Minnesota	45.0671646	-93.3016404	Brooklyn Center	MN
+online 728	Elk River Area School District	45.30426010000001	-93.5692105	Elk River	MN
+university elementary	University Elementary School	39.17574899999999	-86.4826439	Bloomington	IN
+transition 15	Transition 15 Special Education	45.31859039999999	-93.3464882	Anoka	MN
+canby secondary	Canby Public Schools	44.7111914	-96.2789825	Canby	MN
+round lake-brewster public schools	Round Lake School District	43.53746399999999	-95.4650046	Round Lake	MN
+paladin career and tech high school	Paladin Career & Technical High School	45.12631	-93.260723	Blaine	MN
+wagner elementary	Wagner Elementary School	33.8916275	-117.8517736	Placentia	CA
+stride academy charter school	Stride Academy	45.5826956	-94.1756113	St Cloud	MN
+albany area schools early childhood	Albany Senior High School	45.630605	-94.559412	Albany	MN
+nevis secondary	Nevis Elementary School	46.966106	-94.8441212	Nevis	MN
+early childhood family education	Early Childhood Family Education	45.0040562	-93.29726889999999	Minneapolis	MN
+barnesville elementary	Barnsville Exempted Village Schools	39.98918669999999	-81.17832969999999	Barnesville	OH
+buffalo early child. sp. ed program	Buffalo-Hanover-Montrose School District	45.17542700000001	-93.874017	Buffalo	MN
+fergus falls area learning center	Fergus Falls Public Schools	46.2903502	-96.06468729999999	Fergus Falls	MN
+riverside central elementary	Riverside Central Elementary School	44.0177321	-92.4555365	Rochester	MN
+kennedy elementary	Kennedy Elementary School	43.0938848	-89.2978947	Madison	WI
+nso - independent study	Nso - Independent Study	44.9997133	-93.4503773	Minneapolis	MN
+zimmerman elementary	Walter Zimmerman Elementary School	34.053185	-117.401889	Bloomington	CA
+forest hills elementary	Forest Hills Global Elementary	34.2306811	-77.9140499	Wilmington	NC
+bridgewater elementary	Bridgewater Elementary School	44.4394769	-93.16431999999999	Northfield	MN
+howard lake-waverly-winsted sec.	Howard Lake Waverly High School	45.02830669999999	-94.06644560000001	Howard Lake	MN
+vandyke elementary	Vandyke Elementary School	47.2863889	-93.425	Coleraine	MN
+maple river middle school	Maple River High School	43.92839249999999	-93.950133	Mapleton	MN
+lake park audubon learning ladder	Lake Park Audubon Schools	46.88186289999999	-96.10149179999999	Lake Park	MN
+pine island public school dist.	Pine Island K-12	44.201334	-92.6442046	Pine Island	MN
+houston elementary	Houston Elementary	33.3721207	-111.7817152	Gilbert	AZ
+dover-eyota high school	Dover-Eyota Elementary School	43.9788255	-92.2304736	Eyota	MN
+wca 5-6 elementary	Wca 5-6 Elementary School	45.9056746	-95.9041388	Barrett	MN
+heritage e-stem magnet school	Heritage Middle School	44.91329020000001	-93.09007899999999	West St Paul	MN
+northrop elementary	Northrop Elementary School	44.9246838	-93.22690279999999	Minneapolis	MN
+prairie wind middle	Prairie Wind Middle School	46.5872672	-95.5842572	Perham	MN
+owatonna senior high	Owatonna Senior High School	44.0798208	-93.2198303	Owatonna	MN
+nova classical academy	Nova Classical Academy	44.928048	-93.12797610000001	St Paul	MN
+green central park elementary	Richard R. Green Central Park School	44.9402838	-93.27049439999999	Minneapolis	MN
+woodbury middle school	Woodbury Middle School	44.92841289999999	-92.9736229	Woodbury	MN
+ell transition program	University of Wisconsin - River Falls	44.854781	-92.622867	River Falls	WI
+voyageurs expeditionary school	Voyageurs Expeditionary High	47.5057543	-94.874945	Bemidji	MN
+ellis middle	Ellis Middle School	36.3058775	-86.6054145	Hendersonville	TN
+st croix preparatory academy middle	St. Croix Preparatory Academy Lower	45.0136263	-92.79800829999999	Stillwater	MN
+chaska middle school west	Chaska Middle School West	44.8073467	-93.6002218	Chaska	MN
+jennings community learning center	Jennings Community Learning Center	44.9650711	-93.1995403	St Paul	MN
+crossroads-night	Anoka-Hennepin Regional High School	45.1529527	-93.299466	Coon Rapids	MN
+sheridan hills elementary	Sheridan Hills Elementary School	26.0314786	-80.19421369999999	Hollywood	FL
+holdingford secondary	Holdingford Secondary School	45.7328503	-94.4676341	Holdingford	MN
+rr area learning center	RR Area Learning Center	46.84227300000001	-96.761889	Moorhead	MN
+plymouth youth center	Plymouth Christian Youth Center	45.0017051	-93.3066174	Minneapolis	MN
+cambridge middle school	Cambridge Middle School	45.5390149	-93.2052934	Cambridge	MN
+xinxing academy	Eisenhower Elementary School + Xin Xing Academy	44.9341667	-93.4130311	Hopkins	MN
+magic academy ms/hs	Indianola Academy	33.4622936	-90.6378891	Indianola	MS
+southwest middle	Southwest Middle School	38.57739	-90.51880799999999	Ballwin	MO
+lakes area charter school	Lakes Area Charter School	45.8674089	-95.16306619999999	Osakis	MN
+vandenberge middle school	VandenBerge Middle School	45.312737	-93.57587799999999	Elk River	MN
+276 minnetonka hs is	Minnetonka High School	44.9096753	-93.5108829	Minnetonka	MN
+root river day treatment school	Argosy Collegiate Charter School	41.6886924	-71.16156389999999	Fall River	MA
+cook county alternative	Cook County Work Alternative	41.8372649	-87.71235279999999	Chicago	IL
+early education bridge view	Bridge View Elementary	44.9309084	-93.11840649999999	St Paul	MN
+big woods elementary	Bigwoods Elementary	45.221751	-93.617451	St Michael	MN
+bertha elementary	Bertha Taylor Elementary School	37.2303998	-121.8085248	San Jose	CA
+city life	City Life	42.31447600000001	-71.103879	Jamaica Plain	MA
+hopkins north junior high	Hopkins North Junior High School	44.95471609999999	-93.41378759999999	Hopkins	MN
+congdon elementary	Congdon Park Elementary School	46.816986	-92.0576044	Duluth	MN
+life prep	Life Preparatory Academy	37.7532165	-97.37246209999999	Wichita	KS
+west education center alternative	West Education Center District 287	44.9013746	-93.42112940000001	Minnetonka	MN
+rum river east education program	Rum River South	45.5902075	-93.21560260000001	Cambridge	MN
+cannon falls elementary	Cannon Falls Elementary School	44.5119444	-92.8888889	Cannon Falls	MN
+pines school day program	Pine School	45.1813418	-93.1249799	Circle Pines	MN
+jennings experiential high school	Jennings Community Learning Center	44.9650711	-93.1995403	St Paul	MN
+goodview elementary	Goodview Elementary School	37.2627924	-79.7807456	Goodview	VA
+hermantown early childhood	Hermantown School District	46.822525	-92.238967	Hermantown	MN
+battle creek elementary school	Battle Creek Elementary	44.9394103	-93.0138269	St Paul	MN
+eagle creek elementary school	Eagle Creek Elementary School	44.7655056	-93.4293759	Shakopee	MN
+cedar mountain elementary	Cedar Mountain Elementary School	44.5286111	-94.88305559999999	Franklin	MN
+waterville-elysian-morristown	W-E-M Public Schools	44.2243314	-93.44413279999999	Morristown	MN
+highview middle school	Highview Middle School	45.062052	-93.215699	St Paul	MN
+bridges community elementary	Bridges Community Elementary School	44.15538829999999	-94.0232398	Mankato	MN
+adams elementary	Adams Elementary School	47.6735182	-122.391681	Seattle	WA
+hamilton elementary	Hamilton Elementary School	41.945478	-87.6706525	Chicago	IL
+willmar middle school	Willmar Middle School	45.1117777	-95.0395918	Willmar	MN
+intersect	The Intersect Group	33.9356151	-84.36222219999999	Atlanta	GA
+new london-spicer middle	New London-Spicer High School	45.29360699999999	-94.9454248	New London	MN
+eastview senior high	Eastview High School	44.7446246	-93.1918985	Apple Valley	MN
+dawson-boyd secondary	Dawson High School	44.9305556	-96.05805559999999	Dawson	MN
+remer elementary	Remer Elementary School	47.058385	-93.910113	Remer	MN
+page academy	Page Academy	40.7487053	-74.19588689999999	Newark	NJ
+kimball secondary	Kimball High School	45.3142252	-94.3027944	Kimball	MN
+917 d/hoh gideon pond elementary	Gideon Pond Elementary School	44.7673209	-93.2669382	Burnsville	MN
+monticello middle	Monticello Middle School	45.30041850000001	-93.7826171	Monticello	MN
+murray county central school dist.	Murray County	43.9842085	-95.8564864	USA	
+metro schools middle charter	Metro Schools College Prep	44.9549774	-93.2353005	Minneapolis	MN
+richfield career education program	Richfield Career Education Program	44.8736772	-93.285635	Richfield	MN
+salk middle school	Salk Middle School	45.3199047	-93.57476009999999	Elk River	MN
+pas west 7th	Pas West 7th Special Education	44.91325399999999	-93.147387	St Paul	MN
+bemidji area learning center	Bemidji Area Learning Center	47.472976	-94.88242939999999	Bemidji	MN
+goodridge elementary	Goodridge Elementary School	39.0622157	-84.6922731	Hebron	KY
+kaleidoscope charter school	Kaleidoscope Charter School	45.26002709999999	-93.6710997	Albertville	MN
+frost lake elementary school	Frost Lake Elementary School	44.9895036	-93.0367433	St Paul	MN
+metropolitan learning alliance	Metropolitan Learning Alliance	44.8540576	-93.2398383	Bloomington	MN
+279 osseo jr high alc	Osseo Middle School	45.1225411	-93.4114505	Osseo	MN
+browns valley middle	Browns Valley Superintendant	45.5921686	-96.8309434	Browns Valley	MN
+belview learning center	Belview Learning Center	44.6053545	-95.3269266	Belview	MN
+annandale senior high	Annandale High School	38.8219165	-77.2067947	Annandale	VA
+sibley east-arlington senior high	Sibley East Schools	44.6095105	-94.07951		
+waubun area learning program	Waubun Area Learning Program	47.18098019999999	-95.9393316	Waubun	MN
+eastview elementary	Eastview Elementary School	36.1655925	-82.81047029999999	Greeneville	TN
+pequot lakes public schools	Pequot Lakes High School	46.5999967	-94.316895	Pequot Lakes	MN
+wayzata central middle	Wayzata Central Middle School	44.981702	-93.48280799999999	Plymouth	MN
+park elementary	Park Elementary School	40.7836764	-74.1710188	Newark	NJ
+fertile-beltrami secondary	Fertile-Beltrami School District	47.5323657	-96.28134469999999	Fertile	MN
+hamline elementary school	Hamline Elementary School	44.9646656	-93.16808569999999	St Paul	MN
+oak hill community elementary	Oak Hill Elementary School	45.53180990000001	-94.1918395	St Cloud	MN
+cottage grove middle school	Cottage Grove Middle School	44.8394882	-92.90677409999999	Cottage Grove	MN
+city academy	City Academy	40.76527	-111.874621	Salt Lake City	UT
+island lake elementary	Island Lake Elementary School	45.0489598	-93.13528389999999	St Paul	MN
+merritt creek academy	Chester Creek Academy	46.81487449999999	-92.09338869999999	Duluth	MN
+hoffman learning center	Hoffmann Learning Center	44.3067411	-93.9835253	St Peter	MN
+spanish  high	Spanish Fort High School	30.68935219999999	-87.85558929999999	Spanish Fort	AL
+rum river north-south	Rum River	45.4060672	-93.4058223	Minnesota	USA
+scott alc	Melissa Scott, MA, ALC	33.5011484	-86.7944959	Birmingham	AL
+valley view elementary	Valley View Elementary School	30.2827974	-97.8214717	Austin	TX
+bes transition program	Best Service	44.7809578	-93.26790799999999	Burnsville	MN
+walker-hackensack-akeley alc	Walker-Hackensack Akeley High School	47.0987498	-94.5802944	Walker	MN
+pine hill elementary	Pine Hill Elementary School	44.81831740000001	-92.9630117	Cottage Grove	MN
+wels south	Wels	48.16542	14.03664		
+hayfield sec.	Hayfield Secondary School	38.7504604	-77.1430537	Alexandria	VA
+279 osseo area learning center ey	Osseo Area Learning Center	45.08801649999999	-93.3908998	Brooklyn Park	MN
+byron senior high school	Byron High School	44.0523076	-92.6510579	Byron	MN
+harley hopkins family center	Harley Hopkins Family Center	44.9213356	-93.39548599999999	Hopkins	MN
+mississippi creative arts elem	Mississippi Creative Arts School	44.9872353	-93.08967570000002	St Paul	MN
+southwest metro educational coop	SouthWest Metro Educational Cooperative	44.7843349	-93.5539376	Shakopee	MN
+cokato elementary	Cokato elementary school	45.074104	-94.192719	Cokato	MN
+central mn alc sartell	St Cloud Area Learning Center	45.55766819999999	-94.22502279999999	Waite Park	MN
+upper mississippi academy	Upper Mississippi Academy	44.9280705	-93.1278445	St Paul	MN
+rushford-peterson elementary	Rushford-Peterson Elem School	43.8118833	-91.75289719999999	Rushford	MN
+917 farmington high	917 High St	44.65436769999999	-70.13280759999999	Farmington	ME
+aitkin children's center census	Aitkin Secondary School	46.5336663	-93.71121749999999	Aitkin	MN
+rosemount elementary	Rosemount Elementary School	44.7406258	-93.1301543	Rosemount	MN
+osseo senior high	Osseo Senior High School	45.1203771	-93.40723679999999	Osseo	MN
+st. croix preparatory academy lower	St. Croix Preparatory Academy Lower	45.0136263	-92.79800829999999	Stillwater	MN
+creek valley elementary	Creek Valley Elementary School	44.88661089999999	-93.38313749999999	Edina	MN
+mrvsec/river valley ed center	Minnesota River Valley Special Education Cooperative	44.65886889999999	-93.6369878	Jordan	MN
+big lake senior high	Big Lake High School	45.33987550000001	-93.7363831	Big Lake	MN
+irondale senior high	Irondale High School	45.0900351	-93.20719179999999	New Brighton	MN
+ellen hopkins elementary	Ellen Hopkins Elementary School	46.85435589999999	-96.7615112	Moorhead	MN
+morris bye elementary	Morris Bye Elementary School	45.1875709	-93.3363328	Minneapolis	MN
+minisinaakwaang leadership academy	Minisinaakwaang Leadership Academy	46.54437679999999	-93.28253029999999	McGregor	MN
+bagley elementary	Bagley Elementary School	42.4251742	-83.1523368	Detroit	MI
+bagley secondary	Bagley Independent School District	47.5236573	-95.4012597	Bagley	MN
+north st paul-maplewood oakdale dis	Oakdale	44.9630216	-92.9649361	Oakdale	MN, USA
+horizon program	Hollins University Horizon Program	37.3563735	-79.9414225	Roanoke	VA
+bemidji regional interdist. council	Bemidji Interdistrict Council	47.47009689999999	-94.903587	Bemidji	MN
+karlstad elementary	Karlstad Elementary School	48.5740262	-96.52438169999999	Karlstad	MN
+lake park audubon ecfe	Lake Park Audubon Schools	46.88186289999999	-96.10149179999999	Lake Park	MN
+southside family charter school	Southside Family Charter School	44.9208471	-93.2720622	Minneapolis	MN
+burroughs elementary	Burroughs Elementary School	44.911725	-93.30051449999999	Minneapolis	MN
+ne metro area learning program	Metro Heights Academy	45.09763419999999	-93.26467579999999	Fridley	MN
+kittson central secondary	Kittson Central High School	48.779041	-96.947902	Hallock	MN
+leroy secondary	LeRoy Ostrander High School	43.5133279	-92.5098264	Le Roy	MN
+distance learning indep study	Distance Learning Independent Study	45.1123436	-93.24535259999999	Spring Lake Park	MN
+g.f.w. sr.	GFW High School	44.543609	-94.3666732	Winthrop	MN
+le center secondary	Lecenter Secondary	44.3908744	-93.733331	Le Center	MN
+wabasha-kellogg secondary	Wabasha Kellogg High School	44.3582997	-92.0109994	Wabasha	MN
+yellow medicine east	Yellow Medicine East High School	44.8105556	-95.545	Granite Falls	MN
+chisago lakes middle	Chisago Lakes Middle School	45.3907422	-92.82821550000001	Lindstrom	MN
+spectrum middle school	Spectrum Center Schools	37.9510648	-122.0355356	Concord	CA
+tatanka academy	Baby's Space	44.95799390000001	-93.24882699999999	Minneapolis	MN
+westbrook-walnut grove secondary	Westbrook-Walnut Grove Secondary School	44.04421709999999	-95.4331515	Westbrook	MN
+black hawk middle	Black Hawk Middle School	44.80976740000001	-93.1750689	Eagan	MN
+neill elementary	Neill Elementary School	45.007884	-93.36383339999999	Crystal	MN
+detroit lakes alternative prog.	Detroit Lakes Area Learning Center	46.8182454	-95.85087019999999	Detroit Lakes	MN
+greenbush elementary	Greenbush Elementary School	41.6699185	-71.5252485	West Warwick	RI
+bold-bird island elementary	Bold-Bird Island Elementary School	44.7669444	-94.89833329999999	Bird Island	MN
+browerville secondary	Browerville Public School	46.0858333	-94.8713889	Browerville	MN
+detroit lakes area learning center	Detroit Lakes Area Learning Center	46.8182454	-95.85087019999999	Detroit Lakes	MN
+invest transition	Intermediate District 287	44.9996874	-93.45050529999999	Plymouth	MN
+owatonna alc 9-12	Owatonna Summer School 9-12	44.0878214	-93.225601	Owatonna	MN
+champlin park high school	Champlin Park High School	45.15017599999999	-93.354778	Champlin	MN
+bigfork elementary	Bigfork School	48.064323	-114.0773181	Bigfork	MT
+hinckley elementary	Hinckley Elementary School	41.23746010000001	-81.7425822	Hinckley	OH
+fairmont elementary school	Fairmont Elementary School	33.887004	-117.7911999	Yorba Linda	CA
+learning for leadership charter	Learning for Leadership Charter School	45.028797	-93.260999	Minneapolis	MN
+delta place	Delta Place	51.8975159	-2.0734008	Cheltenham,	 Gloucestershire UK
+minneota elementary	Minneota Elementary School	44.56283699999999	-95.981673	Minneota	MN
+m.a.c.c.r.a.y. area learning prog.	M.A.C.C.R.A.Y. Area Learning Program	44.95869709999999	-95.3695645	Clara City	MN
+mts pease academy	Mts Pease Academy	44.9835573	-93.2357612	Minneapolis	MN
+richfield middle	Richfield Middle School	44.8683025	-93.306005	Richfield	MN
+ridgeview elementary	Ridgeview Elementary School	39.24010030000001	-94.432036	Liberty	MO
+270 - hap - is	Barcelona Apartments	37.7831091	-122.4136766	San Francisco	CA
+mpls. h.s. alternative program	MPLS. High School Alternative Program	44.9493403	-93.29243869999999	Minneapolis	MN
+south senior high	South High School	44.94560729999999	-93.2440579	Minneapolis	MN
+emerson elementary	Emerson Elementary School	33.4229618	-111.8520105	Mesa	AZ
+oak crest elementary	Oakcrest Elementary	40.597596	-112.047029	West Jordan	UT
+west academy	West Academy	32.69180100000001	-97.352661	Fort Worth	TX
+north park elementary	North Park Elementary School	41.96119110000001	-87.6799472	Chicago	IL
+red wing senior high	Red Wing High School	44.5350595	-92.5143259	Red Wing	MN
+vale educational center	Vale Education Center	44.80574239999999	-93.2164963	St Paul	MN
+jefferson elementary	Jefferson Elementary School	33.1520738	-117.3393034	Carlsbad	CA
+aquila elementary	Aquila Elementary School	44.9479	-93.38695349999999	St Louis Park	MN
+avon elementary	Avon Elementary School	27.6018862	-81.510303	Avon Park	FL
+red rock ridge setting iv	Red Rock Ridge Area Learning Center	43.86648100000001	-95.1085667	Windom	MN
+alc eden prairie hs-is	Eden Prairie High School	44.87173300000001	-93.49316859999999	Eden Prairie	MN
+battle creek middle	Battle Creek Middle School	44.9455553	-93.01155589999999	St Paul	MN
+blackduck elementary	Blackduck Elementary School	47.731405	-94.546007	Blackduck	MN
+st. francis high	St Francis High School	42.7706244	-78.8639407	Athol Springs	NY
+kerkhoven secondary	Kerkhoven High School	45.1952433	-95.32252899999999	Kerkhoven	MN
+aitkin alternative learning program	Aitkin Alternative Learning Program	46.53202099999999	-93.7169053	Aitkin	MN
+rtr public schools	RTR High School	44.2816706	-96.13364	Tyler	MN
+andover downtown ctr alc	ARCpoint Labs of Seattle West	47.568691	-122.364063	Seattle	WA
+new city school - east campus	New City School	38.648912	-90.27062099999999	St. Louis	MO
+oakwood elementary	Wayzata Oakwood Elementary School	44.996726	-93.49999799999999	Plymouth	MN
+twin cities academy	Twin Cities Academy	44.9597768	-93.06505080000001	St Paul	MN
+middleton elementary	Middleton Elementary School	44.9039222	-92.9216217	Woodbury	MN
+maple grove senior high	Maple Grove Senior High School	45.13257429999999	-93.459655	Maple Grove	MN
+steps toward adult responsibility	Steps Toward Adult	44.86116260000001	-93.5411298	Chanhassen	MN
+eastern heights elementary	Eastern Heights Elementary	44.9616654	-93.01651319999999	St Paul	MN
+mcgregor area learning program	McGregor Area Learning Program	46.60633000000001	-93.305616	McGregor	MN
+henning secondary	Henning Secondary School	46.3194704	-95.4474592	Henning	MN
+focus beyond	Focus Beyond Transitions	44.9316235	-93.11805790000001	St Paul	MN
+link12 lakeville	Lakeville Area Public Schools	44.64487889999999	-93.2406543	Lakeville	MN
+foley senior high	Foley Public Schools	45.6706467	-93.90874029999999	Foley	MN
+eagle valley secondary	Eagle Valley Elementary School	46.12800720000001	-94.95331170000001	Clarissa	MN
+badger secondary	Badger Elementary School	48.7814334	-96.0156159	Badger	MN
+adrian elementary	Adrian Elementary School	41.5310181	-81.5260457	South Euclid	OH
+sun	The Baltimore Sun	39.2648848	-76.61021939999999	Baltimore	MD
+strive transition-phase n.	Intermediate District 287	44.9996874	-93.45050529999999	Plymouth	MN
+liberty elementary	Liberty Elementary School	34.1910036	-84.5348324	Canton	GA
+hidden valley elementary	Hidden Valley Elementary	35.268156	-80.784279	Charlotte	NC
+long prairie-grey secondary school	Long Prairie-Grey Senior High School	45.981033	-94.84717010000001	Long Prairie	MN
+chisholm secondary	Isd 695 Chisholm	47.4865089	-92.8842852	Chisholm	MN
+ecse@ isd 15 lifelong learning	ISD 15 Lifelong Learning Center	45.3132294	-93.2860767	Cedar	MN
+gemini learning center	PCA Early Learning Center	40.1490753	-82.98557079999999	Columbus	OH
+dakota area community school	Dakota Area Community Charter School	43.9088909	-91.3605199	Dakota	MN
+highland elementary	Highland Elementary School	44.7454243	-93.1791303	Apple Valley	MN
+esc area learning center	ESC Area Learning Center	43.99931400000001	-92.457199	Rochester	MN
+281 winnetka learning ctr. alc	Winnetka Learning Center	45.0529507	-93.38066540000001	Minneapolis	MN
+levi p. dodge middle school	Levi P Dodge Middle School	44.6461322	-93.14910069999999	Farmington	MN
+rushford-peterson senior high	Rushford Peterson High School	43.8111271	-91.75242659999999	Rushford	MN
+faribault senior high	Faribault High School	44.28629059999999	-93.2848765	Faribault	MN
+waubun alc	Waubun Elementary School	47.18098019999999	-95.9393316	Waubun	MN
+mounds view adult education	Mounds View Adult Education	45.1059627	-93.21208179999999	Mounds View	MN
+verndale secondary	Verndale Secondary School	46.3943796	-95.01818089999999	Verndale	MN
+lk nokomis comm-wenonah campus	Wenonah Elementary School Playground	40.8507455	-73.12380399999999	Lake Grove	NY
+mn correctional facility-lino lakes	Minnesota Correctional Facility	45.1794524	-93.124837	Lino Lakes	MN
+round lake-brewster secondary	Round Lake School District	43.53746399999999	-95.4650046	Round Lake	MN
+detroit lakes senior high	Detroit Lakes High School	46.806549	-95.83743439999999	Detroit Lakes	MN
+cherry elementary	Cherry Elementary School	28.9848711	-95.9586459	Bay City	TX
+fairview alternative high school	Fairview Alternative High School	45.0047474	-93.1809684	Roseville	MN
+riverbend academy	Riverbend Academy	29.249912	-81.134878	Ormond Beach	FL
+phase	Phase 1	38.881971	-76.9952962	Washington	DC
+westwood elementary	Westwood Elementary School	33.0296123	-117.0864391	San Diego	CA
+sojourner truth academy	Sojourner Truth Academy	45.02447350000001	-93.29406469999999	Minneapolis	MN
+orchard lake elementary	Orchard Lake Elementary School	44.7097753	-93.3057515	Lakeville	MN
+northland educational center	Northland Recovery Center	47.2183422	-93.51878579999999	Grand Rapids	MN
+yellow medicine east high school	Yellow Medicine East High School	44.8105556	-95.545	Granite Falls	MN
+middle school area learning center	Burnsville Area Learning Center	44.80568359999999	-93.2164478	Eagan	MN
+clearbrook-gonvick elementary	Clearbrook Gonvick School	47.7055237	-95.43418760000002	Clearbrook	MN
+basswood elementary	Basswood Elementary School	45.0782227	-93.4779751	Maple Grove	MN
+little sand	Little Sand Group Home: Office Complex	47.08079799999999	-93.97056900000001	Remer	MN
+mounds view alc	Area Learning Center	45.10587950000001	-93.2121054	Mounds View	MN
+work opportunity center	Work Opportunity Center Inc	42.05239199999999	-72.63465	Agawam	MA
+harding senior high	Harding Senior High School	44.9591324	-93.0364043	St Paul	MN
+cornerstone level 5 program	Cornerstone Academy	42.3150063	-71.6594154	Northborough	MA
+hennepin elementary school	Hennepin Elementary School	44.9612694	-93.2711865	Minneapolis	MN
+r. asp elementary	Robert Asp Elementary School	46.88494710000001	-96.7614028	Moorhead	MN
+century middle school	Century Middle School	39.9321624	-104.9672467	Thornton	CO
+adult diploma	Merrill Adult Diploma Academy	45.1902234	-89.68774119999999	Merrill	WI
+step academy charter school	STEP Academy	44.8528637	-93.0218008	Inver Grove Heights	MN
+washington tech secondary magnet	Washington Technology Magnet School	44.9869513	-93.1112929	St Paul	MN
+beacon - (287)	Beacon Services	42.3566813	-71.0679505	Boston	MA
+oakdale elementary	Oakdale Elementary School	39.16142	-84.6349073	Cincinnati	OH
+greenvale park elementary	Greenvale Park Elementary School	44.4690081	-93.1698021	Northfield	MN
+tower-soudan elementary	Tower-Soudan Jr-Sr School	47.8069444	-92.2736111	Tower	MN
+care & treatment	Care Addiction Treatment Program	41.8893582	-88.3080966	Geneva	IL
+parnassus preparatory school-logic	Parnassus Preparatory School	45.1281931	-93.424666	Maple Grove	MN
+rosemount area learning center	Area Learning Center	44.73242510000001	-93.1833869	St Paul	MN
+belle plaine junior high	Belle Plaine School District Office	44.6222611	-93.7700315	Belle Plaine	MN
+reede gray elementary	Reede Gray Elementary School	44.53673310000001	-95.10398459999999	Redwood Falls	MN
+mountain lake elementary	Mountain Lake Elementary School	43.9419055	-94.9261477	Mountain Lake	MN
+st. peter middle	St Peter Middle School	44.5283013	-89.5876189	Stevens Point	WI
+brooklyn junior high	Brooklyn Middle School	45.0888476	-93.34234490000001	Brooklyn Park	MN
+pioneer ridge middle school	Pioneer Ridge Middle School	44.8220824	-93.5763013	Chaska	MN
+south terrace elementary	South Terrace Elementary School	46.6522222	-92.4272222	Carlton	MN
+pierre bottineau	Pierre Bottineau Library	44.99912870000001	-93.27001460000001	Minneapolis	MN
+coon rapids middle school	Coon Rapids Middle School	45.18070099999999	-93.323923	Coon Rapids	MN
+menahga secondary	Menahga Public Schools, District #821	46.7520088	-95.0948904	Menahga	MN
+headwaters educ learning program	Headwaters Education Learning Program	46.9256725	-95.0638498	Park Rapids	MN
+parkers prairie elementary	Parkers Prairie High School	46.14975159999999	-95.3281528	Parkers Prairie	MN
+byron middle school	Byron Middle School	32.6486914	-83.7534446	Byron	GA
+north branch early childhood	North Branch Area High School	45.5016736	-92.96908189999999	North Branch	MN
+mts high school	MTS High School	44.9502826	-93.237545	Minneapolis	MN
+tea	Tea	46.2745577	9.0342714	Switzerland	
+step	Step Program	40.2210178	-74.7631515	Trenton	NJ
+global academy	Global Academy	45.0421763	-93.2459112	Minneapolis	MN
+transitions	Transitions	42.28677939999999	-85.58322679999999	Kalamazoo	MI
+staples-motley senior high	Staples Motley High School	46.3580968	-94.7969272	Staples	MN
+susan lindgren elementary	Susan Lindgren Elementary School	44.9287244	-93.3405104	St Louis Park	MN
+central middle alternative (cmap)	Wayzata Central Middle School	44.981702	-93.48280799999999	Plymouth	MN
+rush creek elementary	Rush Creek Elementary School	45.1147305	-93.5141659	Maple Grove	MN
+lake middle school	Lake Middle School	44.9040711	-92.92682889999999	Woodbury	MN
+chisago lakes el.	Chisago Lakes Primary School	45.358312	-92.882775	Chisago City	MN
+early education como	Como Early Learning Center	44.9889781	-93.21488490000002	Minneapolis	MN
+worthington middle	Worthington Middle School	43.6292087	-95.63015229999999	Worthington	MN
+meadowvale elementary	Meadowvale Elementary School	45.321756	-93.5884902	Elk River	MN
+pine island elementary	Pine Island Elementary	26.616508	-82.113585	Bokeelia	FL
+pipestone senior high	Pipestone High/Middle School	43.9975602	-96.339809	Pipestone	MN
+cambridge alc west	Oak Land Area Learning Center West	45.5793304	-93.2204295	Cambridge	MN
+southview elementary	Southview Elementary School	44.919945	-91.3827869	Chippewa Falls	WI
+lakes area education center	White Bear Lake Area High School - Insight	45.0441329	-92.9991818	St Paul	MN
+weaver lake science math & tech sch	Weaver Lake Elementary School	45.1099769	-93.48520289999999	Maple Grove	MN
+stevens elementary	Stevens School	29.82717539999999	-95.44614720000001	Houston	TX
+annandale middle school	Annandale Middle School	45.263654	-94.1224889	Annandale	MN
+fairview day treatment center	University of Minnesota Medical Center-Behavioral Health	44.9669782	-93.23701729999999	Minneapolis	MN
+richfield dual language school	Richfield Dual Language School	44.8756626	-93.2602089	Minneapolis	MN
+owatonna alc 6-8	Zumbro Area Learning Center	44.035435	-92.64613299999999	Byron	MN
+park spanish immersion elementary	Park Spanish Immersion School	44.93945249999999	-93.3599855	Minneapolis	MN
+eagle valley elementary	Eagle Valley Elementary School	39.6543709	-106.8199691	Eagle	CO
+jordan secondary	Jordan Secondary Learning Center	33.7631061	-117.9557749	Garden Grove	CA
+stowe elementary	Stowe Elementary School	44.56360839999999	-72.59190029999999	Morrisville	VT
+buffalo senior high	McKinley High School	42.93803519999999	-78.8798257	Buffalo	NY
+otter lake elementary	Otter Lake Elementary School	45.1059891	-93.03957360000001	White Bear Lake	MN
+so wash high school diploma program	So Wash High School Diploma Program	44.81822700000001	-92.936604	Cottage Grove	MN
+champlin/brooklyn pk acd math ensci	Champlin/Brooklyn Pk Acd Math Ensci	45.1538042	-93.3566834	Champlin	MN
+detroit lakes middle	Detroit Lakes Middle School	46.8222913	-95.835211	Detroit Lakes	MN
+breckenridge elementary	Breckenridge Elementary School	39.4791153	-106.0419625	Breckenridge	CO
+rosemount middle	Rosemount Middle School	44.74255590000001	-93.1293527	Rosemount	MN
+carlos elementary	Carlos Elementary School	45.9757374	-95.2914022	Carlos	MN
+ecse program	Minnesota Department-Education	45.009526	-93.16116819999999	Roseville	MN
+alc richfield hs-is	RICHFIELD HIGH SCHOOL	44.8742167	-93.2841926	Minneapolis	MN
+st. michael-albertville senior high	St. Michael-Albertville Senior High School	45.235588	-93.6908996	St Michael	MN
+prinsburg school record	Prinsburg School District	44.93589289999999	-95.19051309999999	Prinsburg	MN
+shakopee junior high west	Shakopee West Junior High School	44.7874551	-93.5229142	Shakopee	MN
+rogers middle school	Will Rogers Middle School	33.7667214	-118.1315606	Long Beach	CA
+round lake-brewster elementary	Brewster Elementary School	43.6971841	-95.46583749999999	Brewster	MN

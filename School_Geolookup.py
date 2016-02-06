@@ -12,7 +12,7 @@ def geo_lookup(input_names):
     gmaps = googlemaps.Client(key=api_key)
     # load cached data
     cached_df = pd.read_csv('cached.txt', sep='\t')
-    cached = cached_df['Name'].str.lower().tolist()
+    cached = cached_df['Raw_Name'].tolist()
     # compare input names to cached
     remaining = list(set(input_names) - set(cached))
     # iterate over list of remaing locations and get geolocation
